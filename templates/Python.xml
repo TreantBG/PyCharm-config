@@ -1,0 +1,8 @@
+<templateSet group="Python">
+  <template name="init" value="def __init__(self):&#10;    $METHOD$&#10;    $END$" description="Create init method in class" toReformat="false" toShortenFQNames="true">
+    <variable name="METHOD" expression="" defaultValue="&quot;pass&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,11 @@
+<keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="ctrl decimal" />
+  </action>
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="ctrl numpad0" />
+  </action>
+  <action id="Runner.CloseOtherViews">
+    <mouse-shortcut keystroke="button3 doubleClick" />
+  </action>
+</keymap>

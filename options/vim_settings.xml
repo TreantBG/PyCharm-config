@@ -1,0 +1,44 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/workspace/paysafe-service-dashboard-bff/README.md" timestamp="1529311877079" />
+      <file name="/Python Console" timestamp="1529310283969">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Bash" timestamp="1529310248571">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/paysafe-service-dashboard-bff/app/microservice/microservices_controller.py" timestamp="1529312267967">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="3" column="9" />
+        <mark key="^" line="3" column="9" />
+        <mark key="." line="3" column="9" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers />
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

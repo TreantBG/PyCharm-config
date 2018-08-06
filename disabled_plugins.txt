@@ -1,0 +1,2 @@
+BashSupport
+com.vladsch.idea.multimarkdown

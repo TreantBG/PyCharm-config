@@ -1,0 +1,36 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.60958904" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="KEYMAP" value="close other&#10;close others&#10;close&#10;file&#10;test" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="OpenOrAttachDialog.OpenMode" value="new" />
+    <property name="PACKAGE_FILTER" value="ipython" />
+    <property name="PLUGIN_FILTER" value="export&#10;plugin export&#10;plugin backup&#10;Bootstrap 4 &amp; Font awesome&#10;TDD outline" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="PyCharm.initialConfigurationShown" value="true" />
+    <property name="PythonUnitTestRunnerSupport.hidePassedTests" value="false" />
+    <property name="SearchEveryWhereHistory" value="zoom&#10;livet&#10;plugins&#10;Project Structure&#10;transa" />
+    <property name="SettingsSearchHistory" value="export&#10;plugin&#10;live tem&#10;templa&#10;plug" />
+    <property name="ShowDocumentationInToolWindow" value="true" />
+    <property name="export.settings.path" value="/media/sf_Share/settings.jar" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Downloads/flask-pycharm-templates-master/settings.jar&#10;/home/madafaka/Downloads/Deadpool.2.2018.720p.HC.HDRIP.X264-STUTTERCRAP.mkv&#10;/home/madafaka/crypto/workspace/exchange-bot-admin&#10;/home/madafaka/workspace/paysafe-service-metadata&#10;/media/sf_Share&#10;/home/madafaka/crypto/workspace/exchange-bot-market-maker&#10;/home/madafaka/Downloads/tddplugin-1.2-SNAPSHOT.zip&#10;/home/madafaka/Downloads/infinitest-intellij-5.2.0-dist.zip&#10;/home/madafaka/workspace/paysafe-service-dashboard-bff&#10;/home/madafaka/workspace/paysafe-service-dashboard-deploy&#10;/home/madafaka/workspace/paysafe-service-dashboard-fe&#10;/home/madafaka/crypto/workspace/bitshares-rpc-client&#10;/home/madafaka/github/python-bitshares&#10;/home/madafaka/github&#10;/home/madafaka/crypto/workspace&#10;/home/madafaka/workspace/paysafe-service-dashboard-bff/local.env&#10;/home/madafaka/workspace/paysafe-service-dashboard-bff/app&#10;/home/madafaka/Documents/python&#10;/home/madafaka/Documents" />
+    <property name="file.gist.reindex.count" value="18005" />
+    <property name="fileTypeChangedCounter" value="4" />
+    <property name="ideavim.statistics.timestamp" value="1529309943833" />
+    <property name="ignoreUltimateEdition" value="true" />
+    <property name="lastTip" value="3" />
+    <property name="plugins.preselection.path" value="$USER_HOME$/Downloads" />
+  </component>
+</application>

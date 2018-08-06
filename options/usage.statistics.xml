@@ -1,0 +1,690 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Copy" count="39" />
+      <entry action="$Cut" count="2" />
+      <entry action="$Delete" count="33" />
+      <entry action="$Paste" count="16" />
+      <entry action="$Redo" count="455" />
+      <entry action="$SelectAll" count="52" />
+      <entry action="$Undo" count="4048" />
+      <entry action="ActivateDebugToolWindow" count="1" />
+      <entry action="ActivateFavoritesToolWindow" count="7" />
+      <entry action="ActivateProjectToolWindow" count="15" />
+      <entry action="ActivateRunToolWindow" count="2" />
+      <entry action="ActivateStructureToolWindow" count="1" />
+      <entry action="ActivateTODOToolWindow" count="1" />
+      <entry action="ActivateVersionControlToolWindow" count="1" />
+      <entry action="AutoIndentLines" count="41" />
+      <entry action="Back" count="12" />
+      <entry action="Bash.AddReplAction" count="3" />
+      <entry action="ChangeSignature" count="1" />
+      <entry action="ChangesView.Revert" count="6" />
+      <entry action="CheckinProject" count="1" />
+      <entry action="ChooseDebugConfiguration" count="4" />
+      <entry action="ChooseRunConfiguration" count="6" />
+      <entry action="CloseAllEditors" count="14" />
+      <entry action="CloseAllEditorsButActive" count="44" />
+      <entry action="CloseContent" count="2" />
+      <entry action="CodeCompletion" count="328" />
+      <entry action="CollapseRegion" count="2" />
+      <entry action="CollapseSelection" count="3" />
+      <entry action="CommentByLineComment" count="153" />
+      <entry action="CompareClipboardWithSelection" count="1" />
+      <entry action="ConfigureIcs" count="1" />
+      <entry action="ContextHelp" count="1" />
+      <entry action="CopyElement" count="9" />
+      <entry action="CopyReference" count="2" />
+      <entry action="Debug" count="36" />
+      <entry action="DecrementWindowHeight" count="6" />
+      <entry action="DialogCancelAction Escape" count="11" />
+      <entry action="DialogOkAction Ctrl+Enter" count="1" />
+      <entry action="DialogOkAction Enter" count="102" />
+      <entry action="DialogOkAction Space" count="1" />
+      <entry action="EditSource" count="1" />
+      <entry action="EditorBackSpace" count="7268" />
+      <entry action="EditorChooseLookupItem" count="1535" />
+      <entry action="EditorChooseLookupItemReplace" count="5" />
+      <entry action="EditorCodeBlockStart" count="1" />
+      <entry action="EditorCopy" count="2918" />
+      <entry action="EditorCut" count="1481" />
+      <entry action="EditorDelete" count="325" />
+      <entry action="EditorDeleteToWordEnd" count="1" />
+      <entry action="EditorDeleteToWordStart" count="5" />
+      <entry action="EditorDown" count="1279" />
+      <entry action="EditorDownWithSelection" count="34" />
+      <entry action="EditorDuplicate" count="34" />
+      <entry action="EditorEnter" count="2908" />
+      <entry action="EditorEscape" count="64" />
+      <entry action="EditorIndentSelection" count="32" />
+      <entry action="EditorLeft" count="1387" />
+      <entry action="EditorLeftWithSelection" count="328" />
+      <entry action="EditorLineEnd" count="2" />
+      <entry action="EditorLineStart" count="2" />
+      <entry action="EditorLineStartWithSelection" count="3" />
+      <entry action="EditorNextWord" count="603" />
+      <entry action="EditorNextWordWithSelection" count="134" />
+      <entry action="EditorPageDown" count="3" />
+      <entry action="EditorPaste" count="3741" />
+      <entry action="EditorPasteFromX11" count="2" />
+      <entry action="EditorPreviousWord" count="766" />
+      <entry action="EditorPreviousWordWithSelection" count="220" />
+      <entry action="EditorRight" count="1675" />
+      <entry action="EditorRightWithSelection" count="383" />
+      <entry action="EditorScrollDown" count="17" />
+      <entry action="EditorScrollUp" count="10" />
+      <entry action="EditorSelectWord" count="15" />
+      <entry action="EditorSplitLine" count="24" />
+      <entry action="EditorStartNewLine" count="4" />
+      <entry action="EditorTab" count="1001" />
+      <entry action="EditorToggleColumnMode" count="2" />
+      <entry action="EditorToggleInsertState" count="16" />
+      <entry action="EditorUnindentSelection" count="171" />
+      <entry action="EditorUp" count="542" />
+      <entry action="EditorUpWithSelection" count="45" />
+      <entry action="ExpandRegion" count="15" />
+      <entry action="ExportSettings" count="3" />
+      <entry action="ExpressionTypeInfo" count="11" />
+      <entry action="ExtractMethod" count="5" />
+      <entry action="FileChooser.NewFolder" count="1" />
+      <entry action="Find" count="88" />
+      <entry action="FindInPath" count="3" />
+      <entry action="FindNext" count="17" />
+      <entry action="FindPrevious" count="14" />
+      <entry action="FindUsages" count="47" />
+      <entry action="FindWordAtCaret" count="2" />
+      <entry action="Forward" count="3" />
+      <entry action="Generate" count="2" />
+      <entry action="GotoAction" count="18" />
+      <entry action="GotoBookmark0" count="12" />
+      <entry action="GotoBookmark1" count="4" />
+      <entry action="GotoBookmark2" count="5" />
+      <entry action="GotoBookmark3" count="8" />
+      <entry action="GotoBookmark4" count="6" />
+      <entry action="GotoBookmark5" count="17" />
+      <entry action="GotoBookmark6" count="1" />
+      <entry action="GotoClass" count="3" />
+      <entry action="GotoCustomRegion" count="1" />
+      <entry action="GotoDeclaration" count="795" />
+      <entry action="GotoFile" count="1" />
+      <entry action="GotoImplementation" count="1" />
+      <entry action="GotoLine" count="1" />
+      <entry action="GotoNextError" count="1" />
+      <entry action="GotoPrevElementUnderCaretUsage" count="8" />
+      <entry action="GotoSymbol" count="1" />
+      <entry action="HideAllWindows" count="11" />
+      <entry action="ImplementMethods" count="1" />
+      <entry action="ImportSettings" count="2" />
+      <entry action="IncrementWindowHeight" count="5" />
+      <entry action="InsertLiveTemplate" count="11" />
+      <entry action="IntroduceConstant" count="1" />
+      <entry action="IntroduceParameter" count="3" />
+      <entry action="IntroduceVariable" count="16" />
+      <entry action="MethodDown" count="2" />
+      <entry action="MethodUp" count="3" />
+      <entry action="Move" count="6" />
+      <entry action="MoveStatementDown" count="85" />
+      <entry action="MoveStatementUp" count="121" />
+      <entry action="NewDir" count="23" />
+      <entry action="NewDirectoryProject" count="3" />
+      <entry action="NewElement" count="12" />
+      <entry action="NewFile" count="17" />
+      <entry action="NewPythonFile" count="63" />
+      <entry action="NewPythonPackage" count="1" />
+      <entry action="NextTemplateVariable" count="63" />
+      <entry action="OpenFile" count="26" />
+      <entry action="OptimizeImports" count="330" />
+      <entry action="OverrideMethods" count="2" />
+      <entry action="PinToolwindowTab" count="1" />
+      <entry action="QuickImplementations" count="3" />
+      <entry action="RecentChangedFiles" count="1" />
+      <entry action="RecentFiles" count="2" />
+      <entry action="ReformatCode" count="685" />
+      <entry action="RenameElement" count="114" />
+      <entry action="Replace" count="3" />
+      <entry action="Rerun" count="1637" />
+      <entry action="ResizeToolWindowLeft" count="1" />
+      <entry action="Resume" count="57" />
+      <entry action="RevealIn" count="14" />
+      <entry action="Run" count="129" />
+      <entry action="RunClass" count="104" />
+      <entry action="RunToCursor" count="2" />
+      <entry action="SaveAll" count="1684" />
+      <entry action="SearchEverywhere" count="33" />
+      <entry action="SelectAllOccurrences" count="1" />
+      <entry action="SelectIn" count="1" />
+      <entry action="ShowErrorDescription" count="3" />
+      <entry action="ShowFilePath" count="3" />
+      <entry action="ShowIntentionActions" count="189" />
+      <entry action="ShowReformatFileDialog" count="2" />
+      <entry action="ShowSettings" count="60" />
+      <entry action="SmartSelect" count="1" />
+      <entry action="SmartTypeCompletion" count="4" />
+      <entry action="StepInto" count="132" />
+      <entry action="StepIntoMyCode" count="11" />
+      <entry action="StepOut" count="11" />
+      <entry action="StepOver" count="737" />
+      <entry action="Stop" count="264" />
+      <entry action="Switcher" count="2" />
+      <entry action="ToggleBookmark" count="1" />
+      <entry action="ToggleBookmark7" count="1" />
+      <entry action="ToggleLineBreakpoint" count="102" />
+      <entry action="TypeHierarchy" count="1" />
+      <entry action="Vcs.RollbackChangedLines" count="2" />
+      <entry action="Vcs.UpdateProject" count="1" />
+      <entry action="ViewBreakpoints" count="4" />
+      <entry action="VimChangeCaseUpperMotion" count="1" />
+      <entry action="VimChangeCaseUpperVisual" count="2" />
+      <entry action="VimPluginToggle" count="3" />
+      <entry action="WelcomeScreen.Plugins" count="2" />
+      <entry action="XDebugger.Inspect" count="5" />
+      <entry action="XDebugger.MuteBreakpoints" count="2" />
+      <entry action="com.jetbrains.python.console.RunPythonConsoleAction" count="2" />
+      <entry action="editRunConfigurations" count="26" />
+      <entry action="org.intellij.plugins.markdown.ui.actions.styling.ToggleBoldAction" count="1" />
+      <entry action="org.intellij.plugins.markdown.ui.actions.styling.ToggleCodeSpanAction" count="4" />
+      <entry action="tooltip.actions.show.description.morelink" count="1" />
+    </counts>
+  </component>
+  <component name="FeatureUsageStatistics" first-run="1529079522298" have-been-shown="false" show-in-other="true" show-in-compilation="true">
+    <feature id="editing.completion.camelHumps" count="26" last-shown="0" last-used="1533304743121" shown-count="0" />
+    <feature id="codeassists.comment.line" count="153" last-shown="0" last-used="1533298440249" shown-count="0" />
+    <feature id="codeassists.surroundwith.statement" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.rename" count="106" last-shown="0" last-used="1533296175884" shown-count="0" />
+    <feature id="navigation.popup.action" count="19" last-shown="0" last-used="1533559478763" shown-count="0" />
+    <feature id="editing.completion.cancelByControlArrows" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.symbol" count="1" last-shown="0" last-used="1532681742914" shown-count="0" />
+    <feature id="find.recent.search" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.replace" count="10" last-shown="1533203786878" last-used="1533203786930" shown-count="4292" />
+    <feature id="navigation.goto.inspection" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.camelprefix" count="6" last-shown="0" last-used="1533559449101" shown-count="0" />
+    <feature id="SearchEverywhere" count="32" last-shown="0" last-used="1533323325442" shown-count="0" />
+    <feature id="navigation.popup.class" count="3" last-shown="0" last-used="1533053393374" shown-count="0" />
+    <feature id="navigation.popup.file" count="1" last-shown="0" last-used="1532681735333" shown-count="0" />
+    <feature id="navigation.popup.wildcards" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.introduceVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickdefinition" count="2" last-shown="1533558774892" last-used="1532512518958" shown-count="153" />
+    <feature id="find.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.basic" count="1764" last-shown="0" last-used="1533558855781" shown-count="0" />
+    <feature id="tag.name.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.select.word" count="5958" last-shown="0" last-used="1533558595545" shown-count="0" />
+    <feature id="navigation.recent.files" count="2" last-shown="0" last-used="1533041961872" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="795" last-shown="0" last-used="1533304699996" shown-count="0" />
+    <feature id="editing.completion.finishByDotEtc" count="9" last-shown="1533122662473" last-used="1533292633778" shown-count="95" />
+    <feature id="codeassists.quickjavadoc.lookup" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="ui.scheme.quickswitch" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.file.structure" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.finishByCtrlDot" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickjavadoc.ctrln" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.select.in" count="1" last-shown="0" last-used="1533202253829" shown-count="0" />
+    <feature id="navigation.goto.usages" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickjavadoc" count="0" last-shown="1533558774892" last-used="0" shown-count="245" />
+    <feature id="ui.recentchanges" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="ui.tree.speedsearch" count="10" last-shown="0" last-used="1533202202308" shown-count="0" />
+    <feature id="editing.completion.changeSorting" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="ui.horizontal.scrolling" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickdefinition.lookup" count="0" last-shown="1533303544147" last-used="0" shown-count="92" />
+    <completionStatsTag>
+      <option name="sparedCharacters" value="13014" />
+      <option name="invocations" value="1461" />
+      <option name="startDate" value="1529269200000" />
+      <option name="dayCount" value="28" />
+      <option name="lastDate" value="1533502800000" />
+    </completionStatsTag>
+    <fixesStatsTag>
+      <option name="invocations" value="163" />
+      <option name="startDate" value="1529269200000" />
+      <option name="dayCount" value="25" />
+      <option name="lastDate" value="1533502800000" />
+    </fixesStatsTag>
+  </component>
+  <component name="IntentionsCollector">
+    <Intentions>
+      <entry name="Python codeInspection.actions.CleanupInspectionIntention" count="1" />
+      <entry name="Python codeInspection.ex.EditInspectionToolsSettingsAction" count="4" />
+      <entry name="Python com.jetbrains.python.codeInsight.imports.AutoImportQuickFix" count="84" />
+      <entry name="Python com.jetbrains.python.codeInsight.imports.OptimizeImportsQuickFix" count="1" />
+      <entry name="Python com.jetbrains.python.codeInsight.intentions.ImportFromToImportIntention" count="4" />
+      <entry name="Python com.jetbrains.python.codeInsight.intentions.PyAnnotateTypesIntention" count="3" />
+      <entry name="Python com.jetbrains.python.codeInsight.intentions.PyConvertLiteralToSetIntention" count="1" />
+      <entry name="Python com.jetbrains.python.codeInsight.intentions.PyConvertMethodToPropertyIntention" count="1" />
+      <entry name="Python com.jetbrains.python.codeInsight.intentions.PyDictLiteralFormToConstructorIntention" count="1" />
+      <entry name="Python com.jetbrains.python.codeInsight.intentions.SpecifyTypeInDocstringIntention" count="2" />
+      <entry name="Python com.jetbrains.python.inspections.PyInterpreterInspection$ConfigureInterpreterFix" count="2" />
+      <entry name="Python com.jetbrains.python.inspections.PyPackageRequirementsInspection$IgnoreRequirementFix" count="2" />
+      <entry name="Python com.jetbrains.python.inspections.PyPackageRequirementsInspection$InstallAndImportQuickFix" count="1" />
+      <entry name="Python com.jetbrains.python.inspections.PyPackageRequirementsInspection$PyInstallRequirementsFix" count="12" />
+      <entry name="Python com.jetbrains.python.inspections.quickfix.AddFieldQuickFix" count="1" />
+      <entry name="Python com.jetbrains.python.inspections.quickfix.AddFunctionQuickFix" count="1" />
+      <entry name="Python com.jetbrains.python.inspections.quickfix.AddIgnoredIdentifierQuickFix" count="1" />
+      <entry name="Python com.jetbrains.python.inspections.quickfix.AddMethodQuickFix" count="2" />
+      <entry name="Python com.jetbrains.python.inspections.quickfix.ChainedComparisonsQuickFix" count="2" />
+      <entry name="Python com.jetbrains.python.inspections.quickfix.DocstringQuickFix" count="1" />
+      <entry name="Python com.jetbrains.python.inspections.quickfix.PyDefaultArgumentQuickFix" count="1" />
+      <entry name="Python com.jetbrains.python.inspections.quickfix.PyMakeFunctionFromMethodQuickFix" count="1" />
+      <entry name="Python com.jetbrains.python.inspections.quickfix.PyMakeMethodStaticQuickFix" count="3" />
+      <entry name="Python com.jetbrains.python.inspections.quickfix.PyMoveAttributeToInitQuickFix" count="1" />
+      <entry name="Python com.jetbrains.python.inspections.quickfix.PyRemoveArgumentQuickFix" count="2" />
+      <entry name="Python com.jetbrains.python.inspections.quickfix.PyRenameElementQuickFix" count="1" />
+      <entry name="Python com.jetbrains.python.inspections.quickfix.PyRenameUnresolvedRefQuickFix" count="2" />
+      <entry name="Python com.jetbrains.python.inspections.quickfix.RedundantParenthesesQuickFix" count="5" />
+      <entry name="Python com.jetbrains.python.inspections.quickfix.ReformatFix" count="2" />
+      <entry name="Python com.jetbrains.python.inspections.quickfix.StatementEffectIntroduceVariableQuickFix" count="3" />
+      <entry name="Python com.jetbrains.python.inspections.quickfix.UnresolvedRefCreateFunctionQuickFix" count="1" />
+      <entry name="Python com.jetbrains.python.inspections.quickfix.UnresolvedReferenceAddParameterQuickFix" count="6" />
+      <entry name="Python formatting.contextConfiguration.ConfigureCodeStyleOnSelectedFragment" count="1" />
+      <entry name="Python intention.impl.IntentionHintComponent$EditIntentionSettingsAction" count="1" />
+      <entry name="TEXT com.jetbrains.python.inspections.PyPackageRequirementsInspection$PyInstallRequirementsFix" count="3" />
+    </Intentions>
+  </component>
+  <component name="MainMenuCollector">
+    <counts>
+      <entry path="Code -&gt; Insert Live Template..." count="1" />
+      <entry path="Code -&gt; Reformat Code" count="1" />
+      <entry path="Edit -&gt; Find -&gt; Find Usages" count="1" />
+      <entry path="Edit -&gt; Find -&gt; Find in Path..." count="2" />
+      <entry path="Edit -&gt; Find -&gt; Find..." count="1" />
+      <entry path="Edit -&gt; Find -&gt; Replace..." count="1" />
+      <entry path="Edit -&gt; Find -&gt; Select All Occurrences" count="1" />
+      <entry path="File -&gt; Export Settings..." count="2" />
+      <entry path="File -&gt; Import Settings..." count="2" />
+      <entry path="File -&gt; New Project..." count="3" />
+      <entry path="File -&gt; New..." count="1" />
+      <entry path="File -&gt; Open..." count="26" />
+      <entry path="File -&gt; Settings Repository…" count="1" />
+      <entry path="File -&gt; Settings..." count="28" />
+      <entry path="Navigate -&gt; Back" count="9" />
+      <entry path="Navigate -&gt; Select In..." count="1" />
+      <entry path="Run -&gt; Debug" count="7" />
+      <entry path="Run -&gt; Debug..." count="4" />
+      <entry path="Run -&gt; Edit Configurations..." count="26" />
+      <entry path="Run -&gt; Run" count="11" />
+      <entry path="Run -&gt; Run..." count="6" />
+      <entry path="Tools -&gt; Python Console..." count="2" />
+      <entry path="View -&gt; Quick Definition" count="1" />
+    </counts>
+  </component>
+  <component name="ShortcutsCollector">
+    <counts>
+      <entry shortcut="Alt+1" count="15" />
+      <entry shortcut="Alt+2" count="7" />
+      <entry shortcut="Alt+4" count="2" />
+      <entry shortcut="Alt+5" count="1" />
+      <entry shortcut="Alt+6" count="1" />
+      <entry shortcut="Alt+7" count="1" />
+      <entry shortcut="Alt+9" count="1" />
+      <entry shortcut="Alt+Down" count="2" />
+      <entry shortcut="Alt+Enter" count="189" />
+      <entry shortcut="Alt+Insert" count="12" />
+      <entry shortcut="Alt+Left" count="21" />
+      <entry shortcut="Alt+Right" count="10" />
+      <entry shortcut="Alt+Shift+7" count="1" />
+      <entry shortcut="Alt+Shift+Insert" count="1" />
+      <entry shortcut="Alt+Shift+Left" count="3" />
+      <entry shortcut="Alt+Shift+Right" count="3" />
+      <entry shortcut="Alt+Up" count="3" />
+      <entry shortcut="Backspace" count="7216" />
+      <entry shortcut="Ctrl+0" count="12" />
+      <entry shortcut="Ctrl+1" count="4" />
+      <entry shortcut="Ctrl+2" count="5" />
+      <entry shortcut="Ctrl+3" count="8" />
+      <entry shortcut="Ctrl+4" count="6" />
+      <entry shortcut="Ctrl+5" count="17" />
+      <entry shortcut="Ctrl+6" count="1" />
+      <entry shortcut="Ctrl+A" count="52" />
+      <entry shortcut="Ctrl+Alt+C" count="1" />
+      <entry shortcut="Ctrl+Alt+I" count="41" />
+      <entry shortcut="Ctrl+Alt+L" count="683" />
+      <entry shortcut="Ctrl+Alt+M" count="5" />
+      <entry shortcut="Ctrl+Alt+O" count="330" />
+      <entry shortcut="Ctrl+Alt+P" count="3" />
+      <entry shortcut="Ctrl+Alt+Period" count="1" />
+      <entry shortcut="Ctrl+Alt+S" count="31" />
+      <entry shortcut="Ctrl+Alt+Shift+L" count="2" />
+      <entry shortcut="Ctrl+Alt+Shift+N" count="1" />
+      <entry shortcut="Ctrl+Alt+V" count="16" />
+      <entry shortcut="Ctrl+Alt+Z" count="4" />
+      <entry shortcut="Ctrl+B" count="8" />
+      <entry shortcut="Ctrl+Backspace" count="5" />
+      <entry shortcut="Ctrl+C" count="2939" />
+      <entry shortcut="Ctrl+D" count="34" />
+      <entry shortcut="Ctrl+Delete" count="1" />
+      <entry shortcut="Ctrl+Down" count="17" />
+      <entry shortcut="Ctrl+E" count="2" />
+      <entry shortcut="Ctrl+Enter" count="24" />
+      <entry shortcut="Ctrl+Equals" count="10" />
+      <entry shortcut="Ctrl+F" count="92" />
+      <entry shortcut="Ctrl+F1" count="6" />
+      <entry shortcut="Ctrl+F2" count="17" />
+      <entry shortcut="Ctrl+F3" count="2" />
+      <entry shortcut="Ctrl+F4" count="17" />
+      <entry shortcut="Ctrl+F5" count="363" />
+      <entry shortcut="Ctrl+F6" count="1" />
+      <entry shortcut="Ctrl+F8" count="1" />
+      <entry shortcut="Ctrl+G" count="1" />
+      <entry shortcut="Ctrl+H" count="3" />
+      <entry shortcut="Ctrl+J" count="10" />
+      <entry shortcut="Ctrl+K" count="1" />
+      <entry shortcut="Ctrl+L" count="6" />
+      <entry shortcut="Ctrl+Left" count="768" />
+      <entry shortcut="Ctrl+N" count="3" />
+      <entry shortcut="Ctrl+NumPad +" count="5" />
+      <entry shortcut="Ctrl+NumPad -" count="4" />
+      <entry shortcut="Ctrl+NumPad ." count="2" />
+      <entry shortcut="Ctrl+NumPad-0" count="12" />
+      <entry shortcut="Ctrl+O" count="2" />
+      <entry shortcut="Ctrl+Open Bracket" count="1" />
+      <entry shortcut="Ctrl+Period" count="3" />
+      <entry shortcut="Ctrl+R" count="4" />
+      <entry shortcut="Ctrl+Right" count="604" />
+      <entry shortcut="Ctrl+S" count="1688" />
+      <entry shortcut="Ctrl+Shift+7" count="1" />
+      <entry shortcut="Ctrl+Shift+A" count="19" />
+      <entry shortcut="Ctrl+Shift+Down" count="90" />
+      <entry shortcut="Ctrl+Shift+E" count="1" />
+      <entry shortcut="Ctrl+Shift+F" count="1" />
+      <entry shortcut="Ctrl+Shift+F10" count="99" />
+      <entry shortcut="Ctrl+Shift+F12" count="2" />
+      <entry shortcut="Ctrl+Shift+I" count="2" />
+      <entry shortcut="Ctrl+Shift+L" count="14" />
+      <entry shortcut="Ctrl+Shift+Left" count="221" />
+      <entry shortcut="Ctrl+Shift+N" count="1" />
+      <entry shortcut="Ctrl+Shift+P" count="11" />
+      <entry shortcut="Ctrl+Shift+Right" count="134" />
+      <entry shortcut="Ctrl+Shift+Space" count="4" />
+      <entry shortcut="Ctrl+Shift+Up" count="127" />
+      <entry shortcut="Ctrl+Shift+Z" count="455" />
+      <entry shortcut="Ctrl+Slash" count="153" />
+      <entry shortcut="Ctrl+Space" count="328" />
+      <entry shortcut="Ctrl+T" count="1" />
+      <entry shortcut="Ctrl+Tab" count="2" />
+      <entry shortcut="Ctrl+Up" count="10" />
+      <entry shortcut="Ctrl+V" count="3751" />
+      <entry shortcut="Ctrl+W" count="16" />
+      <entry shortcut="Ctrl+X" count="1481" />
+      <entry shortcut="Ctrl+Z" count="4048" />
+      <entry shortcut="Delete" count="335" />
+      <entry shortcut="Down" count="1311" />
+      <entry shortcut="End" count="2" />
+      <entry shortcut="Enter" count="4644" />
+      <entry shortcut="Escape" count="136" />
+      <entry shortcut="F1" count="1" />
+      <entry shortcut="F11" count="1" />
+      <entry shortcut="F2" count="14" />
+      <entry shortcut="F3" count="16" />
+      <entry shortcut="F4" count="1" />
+      <entry shortcut="F5" count="9" />
+      <entry shortcut="F6" count="6" />
+      <entry shortcut="F7" count="119" />
+      <entry shortcut="F8" count="663" />
+      <entry shortcut="F9" count="56" />
+      <entry shortcut="Home" count="2" />
+      <entry shortcut="Insert" count="17" />
+      <entry shortcut="Left" count="1390" />
+      <entry shortcut="Page Down" count="3" />
+      <entry shortcut="Right" count="1676" />
+      <entry shortcut="Shift+Backspace" count="76" />
+      <entry shortcut="Shift+Delete" count="1" />
+      <entry shortcut="Shift+Down" count="34" />
+      <entry shortcut="Shift+Enter" count="4" />
+      <entry shortcut="Shift+F10" count="11" />
+      <entry shortcut="Shift+F6" count="112" />
+      <entry shortcut="Shift+F8" count="4" />
+      <entry shortcut="Shift+F9" count="2" />
+      <entry shortcut="Shift+Home" count="3" />
+      <entry shortcut="Shift+Insert" count="1" />
+      <entry shortcut="Shift+Left" count="328" />
+      <entry shortcut="Shift+Right" count="383" />
+      <entry shortcut="Shift+Shift" count="33" />
+      <entry shortcut="Shift+Tab" count="171" />
+      <entry shortcut="Shift+Up" count="45" />
+      <entry shortcut="Tab" count="1074" />
+      <entry shortcut="Up" count="645" />
+    </counts>
+  </component>
+  <component name="StatisticsApplicationUsages">
+    <group name="run-configuration-type">
+      <project id="paysafe-service-dashboard-bff" values="tests.Unittests" collectionTime="1531907377689" />
+    </group>
+    <group name="vcs">
+      <project id="python-bitshares" values="Git" collectionTime="1532754428058" />
+      <project id="exchange-bot-market-maker" values="Git" collectionTime="1533550312415" />
+      <project id="paysafe-service-dashboard-fe" values="Git" collectionTime="1533031139011" />
+      <project id="exchange-bot-admin" values="Git" collectionTime="1533550317042" />
+      <project id="paysafe-service-dashboard-bff" values="Git" collectionTime="1533190813955" />
+      <project id="bitshares-rpc-client" values="Git" collectionTime="1533550295848" />
+      <project id="paysafe-service-dashboard-deploy" values="Git" collectionTime="1533031898473" />
+      <project id="paysafe-service-metadata" values="Git" collectionTime="1533550314989" />
+    </group>
+    <group name="VCS Log 2">
+      <project id="paysafe-service-dashboard-bff" values="data.branches.count.1+,data.commit.count.1+,data.git.root.count.1,data.users.count.1+" collectionTime="1531907377751" />
+      <project id="bitshares-rpc-client" values="data.users.count.1+,data.commit.count.1+,data.branches.count.1+,data.git.root.count.1" collectionTime="1532505399837" />
+      <project id="python-bitshares" values="data.users.count.10+,data.git.root.count.1,data.branches.count.1+,data.commit.count.100+" collectionTime="1532452160879" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="exchange-bot-market-maker" values="PythonConfigurationType" collectionTime="1532505381322" />
+      <project id="paysafe-service-dashboard-bff" values="PythonConfigurationType,tests.Unittests" collectionTime="1531907377689" />
+      <project id="bitshares-rpc-client" values="PythonConfigurationType" collectionTime="1532505399828" />
+    </group>
+    <group name="file-type">
+      <project id="python-bitshares" values="YAML,Image,ReST,Markdown,SVG,Python,ARCHIVE,PLAIN_TEXT" collectionTime="1532754428072" />
+      <project id="exchange-bot-market-maker" values="Python,PLAIN_TEXT,YAML,JavaScript,Dockerfile" collectionTime="1533550312442" />
+      <project id="paysafe-service-dashboard-fe" values="JSON5,C#,XHTML,JSON,C++,PATCH,HTML,PLAIN_TEXT,Perl,JavaScript,Markdown,Image,CSS,Python,IDEA_MODULE,DTD,YAML,SVG,XML,UNKNOWN,ARCHIVE" collectionTime="1533031139067" />
+      <project id="exchange-bot-admin" values="Markdown,PLAIN_TEXT,HTML,Python,JavaScript,YAML,Dockerfile" collectionTime="1533550317049" />
+      <project id="paysafe-service-dashboard-bff" values=".env file,Python,JSON,PLAIN_TEXT,YAML,Markdown" collectionTime="1533190813973" />
+      <project id="bitshares-rpc-client" values="PLAIN_TEXT,Markdown,ARCHIVE,Python" collectionTime="1533550295864" />
+      <project id="paysafe-service-dashboard-deploy" values="YAML,PLAIN_TEXT" collectionTime="1533031898482" />
+      <project id="paysafe-service-metadata" values="Dockerfile,PLAIN_TEXT,Python,ARCHIVE,Bash,SQL,YAML,UNKNOWN" collectionTime="1533550314991" />
+    </group>
+    <group name="Run Dashboard">
+      <project id="exchange-bot-market-maker" values="run.dashboard.disabled" collectionTime="1532505381400" />
+      <project id="paysafe-service-dashboard-bff" values="run.dashboard.disabled" collectionTime="1531907377750" />
+      <project id="bitshares-rpc-client" values="run.dashboard.disabled" collectionTime="1532505399836" />
+      <project id="python-bitshares" values="run.dashboard.disabled" collectionTime="1532452160871" />
+    </group>
+    <group name="Docker Integration">
+      <project id="python-bitshares" values="docker.runConfigs.cliOptions 0,docker.runConfigs.dockerfile 0,docker.runConfigs.command 0,docker.runConfigs.publishAllPorts 0,docker.accounts.machines 0,docker.runConfigs.total.0,docker.runConfigs.debug 0,docker.accounts.total.0,docker.accounts.registry 0,docker.fileType.dockerfile.patterns,docker.runConfigs.total 0,docker.runConfigs.jsonFile 0,docker.fileType.dockerfile.patterns.1,docker.accounts.total 0,docker.runConfigs.compose 0,docker.runConfigs.image 0,docker.runConfigs.entrypoint 0,docker.accounts.registry.0" collectionTime="1532452160915" />
+      <project id="exchange-bot-market-maker" values="docker.runConfigs.compose 0,docker.runConfigs.publishAllPorts 0,docker.runConfigs.cliOptions 0,docker.runConfigs.image 0,docker.runConfigs.entrypoint 0,docker.runConfigs.debug 0,docker.runConfigs.dockerfile 0,docker.accounts.total.0,docker.runConfigs.command 0,docker.fileType.dockerfile.patterns.1,docker.accounts.machines 0,docker.runConfigs.jsonFile 0,docker.accounts.registry 0,docker.accounts.total 0,docker.runConfigs.total.0,docker.accounts.registry.0,docker.runConfigs.total 0,docker.fileType.dockerfile.patterns" collectionTime="1533550312484" />
+      <project id="bitshares-rpc-client" values="docker.runConfigs.total 0,docker.runConfigs.image 0,docker.runConfigs.cliOptions 0,docker.accounts.machines 0,docker.runConfigs.command 0,docker.runConfigs.dockerfile 0,docker.runConfigs.compose 0,docker.accounts.total 0,docker.fileType.dockerfile.patterns.1,docker.runConfigs.publishAllPorts 0,docker.accounts.registry.0,docker.runConfigs.debug 0,docker.runConfigs.jsonFile 0,docker.fileType.dockerfile.patterns,docker.accounts.registry 0,docker.accounts.total.0,docker.runConfigs.entrypoint 0,docker.runConfigs.total.0" collectionTime="1533550296039" />
+      <project id="paysafe-service-dashboard-bff" values="docker.runConfigs.image 0,docker.runConfigs.publishAllPorts 0,docker.fileType.dockerfile.patterns.1,docker.runConfigs.compose 0,docker.runConfigs.dockerfile 0,docker.accounts.total 0,docker.runConfigs.cliOptions 0,docker.accounts.registry 0,docker.runConfigs.entrypoint 0,docker.runConfigs.debug 0,docker.accounts.machines 0,docker.runConfigs.total.0,docker.fileType.dockerfile.patterns,docker.accounts.total.0,docker.runConfigs.jsonFile 0,docker.runConfigs.total 0,docker.runConfigs.command 0,docker.accounts.registry.0" collectionTime="1531907377806" />
+      <project id="paysafe-service-metadata" values="docker.accounts.total.0,docker.runConfigs.image 0,docker.runConfigs.command 0,docker.runConfigs.debug 0,docker.runConfigs.total.0,docker.runConfigs.cliOptions 0,docker.runConfigs.compose 0,docker.accounts.machines 0,docker.runConfigs.publishAllPorts 0,docker.runConfigs.jsonFile 0,docker.accounts.registry 0,docker.runConfigs.entrypoint 0,docker.fileType.dockerfile.patterns,docker.accounts.registry.0,docker.accounts.total 0,docker.fileType.dockerfile.patterns.1,docker.runConfigs.total 0,docker.runConfigs.dockerfile 0" collectionTime="1533550315058" />
+      <project id="exchange-bot-admin" values="docker.runConfigs.total.0,docker.fileType.dockerfile.patterns,docker.runConfigs.cliOptions 0,docker.accounts.registry 0,docker.runConfigs.publishAllPorts 0,docker.fileType.dockerfile.patterns.1,docker.runConfigs.debug 0,docker.runConfigs.compose 0,docker.accounts.total.0,docker.runConfigs.image 0,docker.runConfigs.jsonFile 0,docker.accounts.machines 0,docker.runConfigs.entrypoint 0,docker.runConfigs.total 0,docker.runConfigs.dockerfile 0,docker.runConfigs.command 0,docker.accounts.total 0,docker.accounts.registry.0" collectionTime="1533550317075" />
+    </group>
+    <group name="all-listed-tools">
+      <project id="python-bitshares" values="DotEnv.DotEnvDuplicateKeyInspection" collectionTime="1532754428077" />
+      <project id="exchange-bot-market-maker" values="Bash.BashSimpleVarUsage,Bash.BashGloballyRegisteredVariable,Bash.BashUnknownFileDescriptor,Bash.BashAddShebang,Bash.BashRecursiveInclusion,Bash.BashReadOnlyVariable,Bash.BashUnusedFunction,Bash.BashMissingInclude,Bash.BashUnusedFunctionParams,Dockerfile.DockerFileAssignments,Dockerfile.DockerFileAddOrCopySemantic,DotEnv.DotEnvDuplicateKeyInspection,Bash.BashReplaceWithSubshell,Bash.BashWrapWord,Bash.BashInternalCommandFunctionOverride,Bash.BashFloatArithmetic,Bash.BashEvaluateExpression,Bash.BashWrapFunction,Bash.BashEvaluateArithmeticExpression,Dockerfile.DockerFileArgumentCount,Bash.BashGlobalLocalVarDef,yaml.ComposeUnknownKeys,yaml.ComposeUnknownValues,Bash.BashFixShebang,Bash.BashUnresolvedVariable,Bash.BashReplaceWithBackquote,Bash.BashSimpleArrayUse,Bash.BashBuiltInVariable,Bash.BashDuplicateFunction" collectionTime="1533550312449" />
+      <project id="paysafe-service-dashboard-fe" values="DotEnv.DotEnvDuplicateKeyInspection" collectionTime="1533031139113" />
+      <project id="exchange-bot-admin" values="Bash.BashDuplicateFunction,Bash.BashFloatArithmetic,DotEnv.DotEnvDuplicateKeyInspection,Dockerfile.DockerFileAddOrCopySemantic,Bash.BashWrapFunction,Bash.BashSimpleVarUsage,Dockerfile.DockerFileAssignments,Bash.BashBuiltInVariable,Bash.BashGlobalLocalVarDef,Bash.BashUnresolvedVariable,Bash.BashWrapWord,yaml.ComposeUnknownKeys,Bash.BashFixShebang,Bash.BashReplaceWithBackquote,Bash.BashUnknownFileDescriptor,Bash.BashEvaluateArithmeticExpression,Bash.BashGloballyRegisteredVariable,Bash.BashReadOnlyVariable,Bash.BashInternalCommandFunctionOverride,Bash.BashEvaluateExpression,yaml.ComposeUnknownValues,Dockerfile.DockerFileArgumentCount,Bash.BashMissingInclude,Bash.BashAddShebang,Bash.BashUnusedFunctionParams,Bash.BashSimpleArrayUse,Bash.BashReplaceWithSubshell,Bash.BashUnusedFunction,Bash.BashRecursiveInclusion" collectionTime="1533550317053" />
+      <project id="paysafe-service-dashboard-bff" values="DotEnv.DotEnvDuplicateKeyInspection" collectionTime="1533190814006" />
+      <project id="bitshares-rpc-client" values="Bash.BashSimpleVarUsage,Bash.BashUnresolvedVariable,Bash.BashRecursiveInclusion,Bash.BashAddShebang,yaml.ComposeUnknownKeys,yaml.ComposeUnknownValues,Bash.BashDuplicateFunction,Bash.BashFloatArithmetic,Bash.BashReplaceWithSubshell,Bash.BashBuiltInVariable,Bash.BashUnusedFunctionParams,Dockerfile.DockerFileArgumentCount,Bash.BashUnknownFileDescriptor,Bash.BashInternalCommandFunctionOverride,Bash.BashEvaluateArithmeticExpression,Bash.BashGloballyRegisteredVariable,Bash.BashEvaluateExpression,Bash.BashGlobalLocalVarDef,Bash.BashReplaceWithBackquote,Bash.BashWrapWord,Bash.BashFixShebang,Bash.BashReadOnlyVariable,DotEnv.DotEnvDuplicateKeyInspection,Bash.BashSimpleArrayUse,Dockerfile.DockerFileAssignments,Bash.BashUnusedFunction,Bash.BashWrapFunction,Dockerfile.DockerFileAddOrCopySemantic,Bash.BashMissingInclude" collectionTime="1533550295904" />
+      <project id="paysafe-service-dashboard-deploy" values="DotEnv.DotEnvDuplicateKeyInspection" collectionTime="1533031898515" />
+      <project id="paysafe-service-metadata" values="Bash.BashDuplicateFunction,Bash.BashEvaluateExpression,Bash.BashFloatArithmetic,Bash.BashReplaceWithBackquote,Bash.BashReplaceWithSubshell,Dockerfile.DockerFileAddOrCopySemantic,yaml.ComposeUnknownValues,Bash.BashEvaluateArithmeticExpression,Bash.BashFixShebang,Bash.BashWrapFunction,Bash.BashMissingInclude,Bash.BashRecursiveInclusion,Bash.BashGlobalLocalVarDef,Bash.BashUnresolvedVariable,Bash.BashUnusedFunctionParams,Bash.BashBuiltInVariable,Bash.BashGloballyRegisteredVariable,yaml.ComposeUnknownKeys,Bash.BashUnusedFunction,Bash.BashSimpleVarUsage,Bash.BashInternalCommandFunctionOverride,Bash.BashReadOnlyVariable,Bash.BashAddShebang,Bash.BashUnknownFileDescriptor,DotEnv.DotEnvDuplicateKeyInspection,Bash.BashSimpleArrayUse,Dockerfile.DockerFileArgumentCount,Dockerfile.DockerFileAssignments,Bash.BashWrapWord" collectionTime="1533550314996" />
+    </group>
+    <group name="all-bundled-tools">
+      <project id="python-bitshares" values="null.SyntaxError,Python.PyTypeChecker,Python.PyIncorrectDocstring,Python.PyArgumentList,Python.PyAssignmentToLoopOrWithParameter,Python.PyDunderSlots,XML.XmlDefaultAttributeValue,HTML.HtmlUnknownTag,XML.XmlUnboundNsPrefix,Python.PyMethodParameters,Python.PyPep8Naming,Python.PyProtocol,XML.CheckTagEmptyBody,Python.PyCallByClass,Properties.TrailingSpacesInProperty,Python.PyReturnFromInit,Python.PyAttributeOutsideInit,RegExp.RegExpSingleCharAlternation,JSON.JsonStandardCompliance,Python.PyListCreation,RegExp.RegExpDuplicateAlternationBranch,XML.XmlWrongRootElement,Python.PyBroadException,Python.PySetFunctionToLiteral,RegExp.RegExpEmptyAlternationBranch,Python.PyUnnecessaryBackslash,Python.PyTupleItemAssignment,null.InjectedReferences,RegExp.RegExpRedundantEscape,ReST.RestRoleInspection,Python.PyNoneFunctionAssignment,Python.PyExceptionInherit,yaml.YAMLUnusedAnchor,Python.PyComparisonWithNone,Python.PyArgumentEqualDefault,Python.PyInconsistentIndentation,null.PyPackageRequirements,Python.PyDictCreation,XML.CheckXmlFileWithXercesValidator,Properties.UnusedProperty,Python.PyOverloads,Python.PyAsyncCall,Python.PyUnresolvedReferences,Python.PyDocstringTypes,Python.PyFromFutureImport,Python.PySimplifyBooleanCheck,Python.PyDataclass,null.LongLine,Properties.DuplicatePropertyInspection,Python.PyTupleAssignmentBalance,Python.PyClassicStyleClass,HTML.HtmlExtraClosingTag,Python.PyAbstractClass,HTML.HtmlMissingClosingTag,JSON.JsonSchemaCompliance,Python.PyMissingTypeHints,Python.PyDecorator,Python.PyDictDuplicateKeys,Python.PyStringException,null.ProblematicWhitespace,Python.PyMissingConstructor,null.TodoComment,Python.PyRedundantParentheses,Python.PyNamedTuple,XML.HtmlUnknownAnchorTarget,null.MarkdownUnresolvedFileReference,Python.PyTypeHints,RegExp.RegExpEscapedMetaCharacter,HTML.HtmlUnknownBooleanAttribute,Python.PyMandatoryEncoding,yaml.YAMLUnresolvedAlias,Python.PyGlobalUndefined,Python.PySingleQuotedDocstring,Python.PySuperArguments,Python.PyAugmentAssignment,Python.PyOldStyleClasses,Python.PyPropertyAccess,XML.RequiredAttributes,RegExp.RegExpRepeatedSpace,Python.PyShadowingBuiltins,null.Annotator,Python.PyProtectedMember,Python.PyUnreachableCode,yaml.YAMLDuplicatedKeys,Python.PyCallingNonCallable,null.SpellCheckingInspection,Python.PyByteLiteral,Python.PyRedeclaration,Python.PyShadowingNames,Properties.IncompleteProperty,yaml.YAMLRecursiveAlias,Python.PyNonAsciiChar,Python.PyClassHasNoInit,Python.PyMissingOrEmptyDocstring,RegExp.RegExpUnexpectedAnchor,XML.XmlInvalidId,Python.PyStringFormat,XML.XmlHighlighting,Python.PyUnusedLocal,Python.PyMethodFirstArgAssignment,XML.XmlUnusedNamespaceDeclaration,Python.PyInterpreter,Python.PyPropertyDefinition,yaml.YAMLSchemaValidation,XML.HtmlUnknownTarget,Properties.AlphaUnsortedPropertiesFile,null.LossyEncoding,null.UnresolvedReference,CommandLine.CommandLineInspection,HTML.HtmlUnknownAttribute,null.InconsistentLineSeparators,Python.PyMethodOverriding,Python.PyDeprecation,Python.PyTestParametrized,Python.PyChainedComparisons,Python.PyNestedDecorators,Python.PyPep8,XML.CheckValidXmlInScriptTagBody,RegExp.RegExpAnonymousGroup,Python.PyDefaultArgument,Python.PyCompatibility,JSON.JsonDuplicatePropertyKeys,Python.PyInitNewSignature,Python.PyStatementEffect,XML.XmlPathReference,Python.PyUnboundLocalVariable,RegExp.RegExpOctalEscape,Python.PyExceptClausesOrder,XML.CheckDtdRefs,null.UnusedDefine,null.NonAsciiCharacters,BuildoutCfg.BuildoutUnresolvedPartInspection,Python.PyMethodMayBeStatic,XML.XmlDuplicatedId,Properties.WrongPropertyKeyValueDelimiter,Python.PyTrailingSemicolon,XML.CheckEmptyScriptTag,JSON5.Json5StandardCompliance" collectionTime="1532754428073" />
+      <project id="exchange-bot-market-maker" values="null.PyPackageRequirements,RegExp.RegExpSingleCharAlternation,Python.PyGlobalUndefined,RegExp.RegExpEscapedMetaCharacter,HTML.HtmlMissingClosingTag,Python.PyNamedTuple,Python.PyPep8Naming,Python.PyDunderSlots,Python.PyDeprecation,Python.PyDictCreation,Python.PyNonAsciiChar,Python.PyStringFormat,XML.HtmlUnknownAnchorTarget,XML.CheckDtdRefs,Properties.UnusedProperty,Python.PyListCreation,JSON.JsonDuplicatePropertyKeys,Python.PyNestedDecorators,XML.CheckValidXmlInScriptTagBody,BuildoutCfg.BuildoutUnresolvedPartInspection,XML.RequiredAttributes,Python.PySimplifyBooleanCheck,RegExp.RegExpEmptyAlternationBranch,Python.PyAttributeOutsideInit,XML.XmlHighlighting,Properties.DuplicatePropertyInspection,HTML.HtmlUnknownAttribute,Python.PyStringException,null.UnusedDefine,Python.PyInterpreter,XML.CheckXmlFileWithXercesValidator,Python.PyDecorator,Python.PyMethodMayBeStatic,Python.PyCallByClass,Python.PyMissingTypeHints,Python.PyUnresolvedReferences,Python.PyTestParametrized,Python.PyExceptionInherit,yaml.YAMLUnusedAnchor,CommandLine.CommandLineInspection,Python.PyRedundantParentheses,Python.PyProtocol,Properties.IncompleteProperty,Python.PyInconsistentIndentation,null.TodoComment,null.NonAsciiCharacters,Python.PySuperArguments,null.InconsistentLineSeparators,Python.PyExceptClausesOrder,Python.PyTypeHints,null.InjectedReferences,ReST.RestRoleInspection,Python.PyShadowingBuiltins,Python.PyChainedComparisons,XML.XmlDefaultAttributeValue,Python.PyArgumentEqualDefault,XML.XmlPathReference,Python.PyByteLiteral,Python.PyMethodOverriding,Python.PyBroadException,HTML.HtmlUnknownTag,RegExp.RegExpRedundantEscape,XML.XmlWrongRootElement,null.SpellCheckingInspection,XML.XmlUnusedNamespaceDeclaration,XML.CheckEmptyScriptTag,XML.HtmlUnknownTarget,XML.XmlDuplicatedId,Python.PyIncorrectDocstring,Python.PyUnboundLocalVariable,XML.XmlUnboundNsPrefix,Python.PyDocstringTypes,Python.PyUnreachableCode,Python.PyDictDuplicateKeys,Python.PyMissingConstructor,Python.PyUnusedLocal,Python.PyAugmentAssignment,Python.PyReturnFromInit,null.MarkdownUnresolvedFileReference,Python.PyMissingOrEmptyDocstring,Python.PySetFunctionToLiteral,yaml.YAMLRecursiveAlias,Python.PyMethodParameters,null.Annotator,Python.PyPropertyDefinition,Python.PyCallingNonCallable,Python.PyUnnecessaryBackslash,Python.PyMandatoryEncoding,Python.PyAsyncCall,Python.PyFromFutureImport,Python.PyTypeChecker,Python.PyShadowingNames,Python.PyOldStyleClasses,null.LossyEncoding,Properties.TrailingSpacesInProperty,yaml.YAMLUnresolvedAlias,Python.PyTupleAssignmentBalance,Properties.AlphaUnsortedPropertiesFile,RegExp.RegExpOctalEscape,Python.PyAbstractClass,Python.PyMethodFirstArgAssignment,Properties.WrongPropertyKeyValueDelimiter,Python.PyClassicStyleClass,HTML.HtmlUnknownBooleanAttribute,JSON.JsonSchemaCompliance,null.LongLine,JSON5.Json5StandardCompliance,Python.PyOverloads,RegExp.RegExpDuplicateAlternationBranch,Python.PyPropertyAccess,Python.PyArgumentList,Python.PyDataclass,Python.PyPep8,Python.PyClassHasNoInit,Python.PyTrailingSemicolon,Python.PyDefaultArgument,null.ProblematicWhitespace,null.SyntaxError,Python.PyComparisonWithNone,Python.PyRedeclaration,RegExp.RegExpUnexpectedAnchor,Python.PySingleQuotedDocstring,Python.PyInitNewSignature,Python.PyTupleItemAssignment,XML.XmlInvalidId,HTML.HtmlExtraClosingTag,null.UnresolvedReference,XML.CheckTagEmptyBody,Python.PyAssignmentToLoopOrWithParameter,yaml.YAMLDuplicatedKeys,Python.PyCompatibility,RegExp.RegExpRepeatedSpace,JSON.JsonStandardCompliance,Python.PyProtectedMember,Python.PyStatementEffect,yaml.YAMLSchemaValidation,RegExp.RegExpAnonymousGroup,Python.PyNoneFunctionAssignment" collectionTime="1533550312443" />
+      <project id="paysafe-service-dashboard-fe" values="null.SyntaxError,Python.PySimplifyBooleanCheck,Python.PyUnnecessaryBackslash,Python.PyByteLiteral,Python.PyDictDuplicateKeys,Python.PySingleQuotedDocstring,XML.XmlInvalidId,Python.PyIncorrectDocstring,null.LossyEncoding,RegExp.RegExpRedundantEscape,Python.PyInconsistentIndentation,Python.PyExceptClausesOrder,null.InjectedReferences,Python.PyMissingTypeHints,RegExp.RegExpAnonymousGroup,CommandLine.CommandLineInspection,Python.PyProtectedMember,Python.PyTypeChecker,Python.PyTestParametrized,Python.PyRedeclaration,Properties.TrailingSpacesInProperty,Python.PyAttributeOutsideInit,Python.PyTrailingSemicolon,XML.RequiredAttributes,BuildoutCfg.BuildoutUnresolvedPartInspection,yaml.YAMLUnusedAnchor,RegExp.RegExpSingleCharAlternation,Python.PyCallingNonCallable,ReST.RestRoleInspection,Python.PyMethodFirstArgAssignment,Python.PyExceptionInherit,Python.PyClassicStyleClass,Python.PyTypeHints,RegExp.RegExpEscapedMetaCharacter,HTML.HtmlUnknownTag,Properties.IncompleteProperty,RegExp.RegExpRepeatedSpace,Python.PyStatementEffect,XML.CheckValidXmlInScriptTagBody,Python.PyAugmentAssignment,Python.PyShadowingNames,null.Annotator,XML.XmlDuplicatedId,Python.PyNonAsciiChar,Properties.AlphaUnsortedPropertiesFile,null.SpellCheckingInspection,Python.PyOldStyleClasses,Python.PyDataclass,Python.PyTupleAssignmentBalance,Python.PyRedundantParentheses,Python.PyDictCreation,Python.PyChainedComparisons,Python.PyMissingConstructor,XML.CheckDtdRefs,Python.PyInterpreter,Python.PyStringFormat,Python.PyBroadException,Python.PyNestedDecorators,Python.PyMethodParameters,XML.HtmlUnknownTarget,Python.PyUnusedLocal,XML.CheckEmptyScriptTag,Python.PyMethodOverriding,null.MarkdownUnresolvedFileReference,XML.CheckTagEmptyBody,Python.PyClassHasNoInit,JSON.JsonDuplicatePropertyKeys,Properties.DuplicatePropertyInspection,Python.PyCompatibility,Python.PyAsyncCall,Python.PyArgumentList,Python.PyPropertyAccess,HTML.HtmlExtraClosingTag,HTML.HtmlUnknownBooleanAttribute,null.ProblematicWhitespace,null.NonAsciiCharacters,JSON5.Json5StandardCompliance,Python.PyFromFutureImport,Python.PyReturnFromInit,Python.PySetFunctionToLiteral,Python.PyProtocol,RegExp.RegExpEmptyAlternationBranch,Python.PyNamedTuple,Python.PyUnreachableCode,Properties.WrongPropertyKeyValueDelimiter,Python.PyAbstractClass,RegExp.RegExpUnexpectedAnchor,null.UnusedDefine,XML.XmlUnusedNamespaceDeclaration,XML.XmlDefaultAttributeValue,XML.XmlWrongRootElement,Python.PySuperArguments,Python.PyTupleItemAssignment,yaml.YAMLSchemaValidation,Python.PyDunderSlots,null.TodoComment,Python.PyNoneFunctionAssignment,Python.PyGlobalUndefined,JSON.JsonSchemaCompliance,Python.PyMethodMayBeStatic,Python.PyDefaultArgument,XML.HtmlUnknownAnchorTarget,RegExp.RegExpDuplicateAlternationBranch,HTML.HtmlUnknownAttribute,Python.PyDocstringTypes,Python.PyDecorator,yaml.YAMLRecursiveAlias,Python.PyCallByClass,Python.PyPep8Naming,Python.PyStringException,yaml.YAMLUnresolvedAlias,HTML.HtmlMissingClosingTag,Python.PyOverloads,null.PyPackageRequirements,null.UnresolvedReference,RegExp.RegExpOctalEscape,XML.XmlUnboundNsPrefix,Python.PyListCreation,Python.PyInitNewSignature,XML.XmlHighlighting,Python.PyMissingOrEmptyDocstring,Python.PyAssignmentToLoopOrWithParameter,Python.PyUnresolvedReferences,JSON.JsonStandardCompliance,yaml.YAMLDuplicatedKeys,null.InconsistentLineSeparators,XML.CheckXmlFileWithXercesValidator,Python.PyShadowingBuiltins,Python.PyDeprecation,Python.PyUnboundLocalVariable,null.LongLine,Python.PyComparisonWithNone,XML.XmlPathReference,Python.PyArgumentEqualDefault,Python.PyPep8,Python.PyMandatoryEncoding,Python.PyPropertyDefinition,Properties.UnusedProperty" collectionTime="1533031139067" />
+      <project id="exchange-bot-admin" values="Python.PyDecorator,HTML.HtmlMissingClosingTag,Python.PyRedeclaration,Python.PyNestedDecorators,XML.XmlUnusedNamespaceDeclaration,Python.PyAbstractClass,Python.PyStatementEffect,XML.RequiredAttributes,CommandLine.CommandLineInspection,Python.PyPropertyDefinition,Python.PySimplifyBooleanCheck,RegExp.RegExpUnexpectedAnchor,Python.PyTupleAssignmentBalance,Python.PyDictCreation,Python.PyBroadException,null.MarkdownUnresolvedFileReference,Python.PyShadowingNames,ReST.RestRoleInspection,null.UnresolvedReference,null.ProblematicWhitespace,null.Annotator,Python.PyPep8,XML.CheckXmlFileWithXercesValidator,Python.PyListCreation,XML.XmlHighlighting,yaml.YAMLUnresolvedAlias,RegExp.RegExpRedundantEscape,Python.PyMissingConstructor,null.InjectedReferences,Python.PyUnusedLocal,XML.HtmlUnknownTarget,Python.PyDataclass,Properties.UnusedProperty,Python.PyMethodFirstArgAssignment,Python.PyDictDuplicateKeys,Python.PyAsyncCall,yaml.YAMLDuplicatedKeys,XML.CheckDtdRefs,HTML.HtmlUnknownTag,Python.PyNoneFunctionAssignment,null.LossyEncoding,Python.PyRedundantParentheses,Python.PyGlobalUndefined,XML.XmlPathReference,Python.PyCallByClass,null.InconsistentLineSeparators,JSON.JsonDuplicatePropertyKeys,Python.PyCallingNonCallable,Python.PyDefaultArgument,Python.PyMissingOrEmptyDocstring,Python.PyMissingTypeHints,Python.PyOverloads,Python.PyAttributeOutsideInit,RegExp.RegExpSingleCharAlternation,Python.PyArgumentList,Python.PyUnboundLocalVariable,Python.PyUnnecessaryBackslash,Python.PyInterpreter,RegExp.RegExpEmptyAlternationBranch,HTML.HtmlUnknownBooleanAttribute,Python.PyTypeChecker,XML.XmlDefaultAttributeValue,Python.PyProtectedMember,XML.XmlDuplicatedId,Python.PyComparisonWithNone,XML.XmlWrongRootElement,Python.PyNamedTuple,Python.PyProtocol,Python.PyMethodParameters,Python.PyShadowingBuiltins,yaml.YAMLRecursiveAlias,RegExp.RegExpEscapedMetaCharacter,Python.PyTrailingSemicolon,null.SpellCheckingInspection,null.PyPackageRequirements,Python.PyDocstringTypes,HTML.HtmlExtraClosingTag,Python.PyTupleItemAssignment,Python.PyChainedComparisons,RegExp.RegExpOctalEscape,Python.PyMandatoryEncoding,Python.PyClassicStyleClass,Properties.IncompleteProperty,Python.PyMethodOverriding,XML.HtmlUnknownAnchorTarget,Python.PyStringException,Python.PyClassHasNoInit,XML.CheckTagEmptyBody,XML.CheckValidXmlInScriptTagBody,Python.PyFromFutureImport,Python.PyPropertyAccess,Python.PyPep8Naming,null.SyntaxError,HTML.HtmlUnknownAttribute,RegExp.RegExpRepeatedSpace,null.NonAsciiCharacters,Properties.WrongPropertyKeyValueDelimiter,BuildoutCfg.BuildoutUnresolvedPartInspection,yaml.YAMLSchemaValidation,Properties.DuplicatePropertyInspection,Python.PySuperArguments,Python.PyDeprecation,Python.PyReturnFromInit,Python.PySetFunctionToLiteral,Python.PyExceptClausesOrder,null.LongLine,Python.PyStringFormat,Python.PyTypeHints,Python.PyDunderSlots,null.TodoComment,RegExp.RegExpAnonymousGroup,yaml.YAMLUnusedAnchor,Python.PyAssignmentToLoopOrWithParameter,XML.XmlInvalidId,Python.PyByteLiteral,Python.PyInconsistentIndentation,Python.PyExceptionInherit,Python.PyMethodMayBeStatic,Python.PyOldStyleClasses,Python.PyUnreachableCode,Python.PyIncorrectDocstring,JSON.JsonStandardCompliance,Python.PyAugmentAssignment,Python.PyInitNewSignature,Python.PyCompatibility,XML.XmlUnboundNsPrefix,Python.PySingleQuotedDocstring,Python.PyUnresolvedReferences,XML.CheckEmptyScriptTag,Properties.AlphaUnsortedPropertiesFile,JSON5.Json5StandardCompliance,Python.PyNonAsciiChar,RegExp.RegExpDuplicateAlternationBranch,Python.PyTestParametrized,Properties.TrailingSpacesInProperty,JSON.JsonSchemaCompliance,null.UnusedDefine,Python.PyArgumentEqualDefault" collectionTime="1533550317050" />
+      <project id="paysafe-service-dashboard-bff" values="Python.PyClassicStyleClass,Python.PyByteLiteral,RegExp.RegExpEscapedMetaCharacter,HTML.HtmlExtraClosingTag,Python.PyGlobalUndefined,XML.HtmlUnknownTarget,Python.PyPep8Naming,Python.PyMissingOrEmptyDocstring,HTML.HtmlUnknownBooleanAttribute,Python.PyDecorator,null.TodoComment,Python.PyArgumentList,ReST.RestRoleInspection,Python.PyAugmentAssignment,XML.XmlUnusedNamespaceDeclaration,XML.HtmlUnknownAnchorTarget,JSON.JsonDuplicatePropertyKeys,Python.PyShadowingBuiltins,Python.PyDunderSlots,Python.PyAbstractClass,Python.PyMethodMayBeStatic,Python.PyTypeChecker,null.UnresolvedReference,Python.PyStringFormat,Python.PyNonAsciiChar,Python.PyTupleAssignmentBalance,Python.PyTestParametrized,Python.PyAssignmentToLoopOrWithParameter,Python.PyUnusedLocal,Python.PyListCreation,Python.PyInterpreter,Python.PyBroadException,XML.CheckDtdRefs,Python.PyTrailingSemicolon,Python.PyComparisonWithNone,Python.PyUnnecessaryBackslash,RegExp.RegExpEmptyAlternationBranch,XML.CheckEmptyScriptTag,yaml.YAMLUnusedAnchor,XML.XmlWrongRootElement,null.LongLine,Python.PyFromFutureImport,Python.PyExceptionInherit,Python.PyDefaultArgument,Python.PyUnreachableCode,Python.PyAttributeOutsideInit,Properties.UnusedProperty,null.ProblematicWhitespace,XML.CheckTagEmptyBody,Python.PyTypeHints,Python.PyExceptClausesOrder,Python.PyStringException,JSON5.Json5StandardCompliance,CommandLine.CommandLineInspection,RegExp.RegExpSingleCharAlternation,RegExp.RegExpRedundantEscape,Python.PyNamedTuple,RegExp.RegExpOctalEscape,Python.PyDataclass,Properties.IncompleteProperty,Python.PyInitNewSignature,XML.XmlHighlighting,Python.PyDeprecation,Python.PyUnresolvedReferences,Python.PyUnboundLocalVariable,null.UnusedDefine,null.Annotator,null.InjectedReferences,Python.PyOldStyleClasses,Python.PyShadowingNames,Python.PyCallByClass,RegExp.RegExpUnexpectedAnchor,Python.PyMissingTypeHints,Python.PyMethodOverriding,Python.PyArgumentEqualDefault,Python.PyMandatoryEncoding,XML.XmlUnboundNsPrefix,Python.PyCallingNonCallable,yaml.YAMLUnresolvedAlias,Python.PyClassHasNoInit,XML.RequiredAttributes,Python.PySuperArguments,Python.PyIncorrectDocstring,Properties.TrailingSpacesInProperty,XML.CheckValidXmlInScriptTagBody,null.SpellCheckingInspection,Python.PySingleQuotedDocstring,null.NonAsciiCharacters,XML.XmlPathReference,Properties.WrongPropertyKeyValueDelimiter,RegExp.RegExpAnonymousGroup,Python.PyInconsistentIndentation,XML.CheckXmlFileWithXercesValidator,yaml.YAMLSchemaValidation,yaml.YAMLRecursiveAlias,Python.PyTupleItemAssignment,Python.PyRedundantParentheses,XML.XmlDefaultAttributeValue,Python.PyNestedDecorators,Python.PySetFunctionToLiteral,Python.PyPropertyDefinition,JSON.JsonSchemaCompliance,Python.PyDictCreation,HTML.HtmlUnknownTag,Python.PyProtocol,null.InconsistentLineSeparators,Python.PyReturnFromInit,Properties.AlphaUnsortedPropertiesFile,Python.PyProtectedMember,XML.XmlDuplicatedId,null.SyntaxError,XML.XmlInvalidId,Python.PyMethodParameters,Python.PyStatementEffect,HTML.HtmlMissingClosingTag,Python.PyPropertyAccess,JSON.JsonStandardCompliance,Python.PySimplifyBooleanCheck,RegExp.RegExpDuplicateAlternationBranch,Python.PyDictDuplicateKeys,yaml.YAMLDuplicatedKeys,Python.PyPep8,Python.PyAsyncCall,Python.PyNoneFunctionAssignment,Python.PyMissingConstructor,null.PyPackageRequirements,null.MarkdownUnresolvedFileReference,Python.PyOverloads,Python.PyMethodFirstArgAssignment,RegExp.RegExpRepeatedSpace,Python.PyDocstringTypes,BuildoutCfg.BuildoutUnresolvedPartInspection,Python.PyRedeclaration,Properties.DuplicatePropertyInspection,null.LossyEncoding,HTML.HtmlUnknownAttribute,Python.PyChainedComparisons,Python.PyCompatibility" collectionTime="1533190813974" />
+      <project id="bitshares-rpc-client" values="Python.PyMissingConstructor,Python.PyPropertyDefinition,Python.PyUnreachableCode,RegExp.RegExpDuplicateAlternationBranch,Python.PyDocstringTypes,XML.CheckTagEmptyBody,Python.PyGlobalUndefined,Python.PyShadowingBuiltins,Python.PyTypeChecker,XML.XmlUnboundNsPrefix,XML.XmlHighlighting,null.MarkdownUnresolvedFileReference,Python.PyReturnFromInit,Python.PyFromFutureImport,Python.PyNoneFunctionAssignment,Python.PyExceptionInherit,Python.PyMethodParameters,Python.PyAbstractClass,Python.PyProtectedMember,XML.HtmlUnknownTarget,Python.PyMissingTypeHints,Properties.DuplicatePropertyInspection,null.UnusedDefine,null.TodoComment,JSON.JsonStandardCompliance,RegExp.RegExpUnexpectedAnchor,Python.PySetFunctionToLiteral,null.Annotator,XML.CheckDtdRefs,XML.XmlDefaultAttributeValue,XML.XmlWrongRootElement,Python.PyCallingNonCallable,Python.PyComparisonWithNone,Python.PyTypeHints,Python.PySingleQuotedDocstring,Python.PyPep8Naming,Python.PyMethodMayBeStatic,JSON.JsonDuplicatePropertyKeys,ReST.RestRoleInspection,Python.PyUnusedLocal,RegExp.RegExpOctalEscape,XML.XmlDuplicatedId,HTML.HtmlUnknownAttribute,RegExp.RegExpRepeatedSpace,RegExp.RegExpRedundantEscape,BuildoutCfg.BuildoutUnresolvedPartInspection,Python.PyArgumentList,Properties.UnusedProperty,yaml.YAMLRecursiveAlias,Python.PyDataclass,null.SpellCheckingInspection,null.LossyEncoding,XML.XmlPathReference,Python.PyMandatoryEncoding,Python.PyTupleAssignmentBalance,JSON5.Json5StandardCompliance,Properties.TrailingSpacesInProperty,Python.PyMissingOrEmptyDocstring,Python.PySimplifyBooleanCheck,null.InconsistentLineSeparators,Python.PySuperArguments,Python.PyDictDuplicateKeys,Properties.IncompleteProperty,Python.PyDunderSlots,Python.PyMethodFirstArgAssignment,Python.PyInitNewSignature,null.InjectedReferences,RegExp.RegExpEmptyAlternationBranch,RegExp.RegExpEscapedMetaCharacter,Python.PyOldStyleClasses,Python.PyPep8,Python.PyRedeclaration,yaml.YAMLUnusedAnchor,Python.PyProtocol,RegExp.RegExpSingleCharAlternation,XML.XmlUnusedNamespaceDeclaration,Python.PyStatementEffect,null.LongLine,RegExp.RegExpAnonymousGroup,Python.PyStringFormat,XML.RequiredAttributes,Python.PyNestedDecorators,Python.PyAttributeOutsideInit,Python.PyMethodOverriding,yaml.YAMLDuplicatedKeys,Python.PyCompatibility,Python.PyRedundantParentheses,Python.PyTupleItemAssignment,Python.PyClassHasNoInit,Python.PyUnresolvedReferences,Python.PyShadowingNames,Python.PyTrailingSemicolon,HTML.HtmlExtraClosingTag,Python.PyArgumentEqualDefault,Python.PyInconsistentIndentation,Python.PyAugmentAssignment,Python.PyOverloads,Python.PyBroadException,HTML.HtmlMissingClosingTag,Properties.AlphaUnsortedPropertiesFile,HTML.HtmlUnknownTag,XML.CheckXmlFileWithXercesValidator,Python.PyChainedComparisons,Python.PyUnnecessaryBackslash,null.UnresolvedReference,XML.CheckEmptyScriptTag,Python.PyClassicStyleClass,yaml.YAMLUnresolvedAlias,null.NonAsciiCharacters,XML.CheckValidXmlInScriptTagBody,CommandLine.CommandLineInspection,Python.PyInterpreter,null.PyPackageRequirements,Python.PyPropertyAccess,Python.PyStringException,Python.PyDictCreation,JSON.JsonSchemaCompliance,Python.PyListCreation,Python.PyIncorrectDocstring,Python.PyAssignmentToLoopOrWithParameter,yaml.YAMLSchemaValidation,null.SyntaxError,Python.PyExceptClausesOrder,Python.PyDeprecation,null.ProblematicWhitespace,Python.PyByteLiteral,Properties.WrongPropertyKeyValueDelimiter,Python.PyDecorator,Python.PyAsyncCall,Python.PyNamedTuple,Python.PyUnboundLocalVariable,Python.PyNonAsciiChar,Python.PyDefaultArgument,XML.HtmlUnknownAnchorTarget,Python.PyTestParametrized,XML.XmlInvalidId,Python.PyCallByClass,HTML.HtmlUnknownBooleanAttribute" collectionTime="1533550295867" />
+      <project id="paysafe-service-dashboard-deploy" values="HTML.HtmlUnknownTag,Python.PyAugmentAssignment,Python.PyClassicStyleClass,Properties.AlphaUnsortedPropertiesFile,ReST.RestRoleInspection,XML.XmlInvalidId,Python.PyListCreation,Python.PyBroadException,XML.CheckXmlFileWithXercesValidator,Python.PyProtectedMember,yaml.YAMLUnresolvedAlias,Python.PyProtocol,null.LongLine,XML.HtmlUnknownTarget,Python.PyReturnFromInit,RegExp.RegExpDuplicateAlternationBranch,XML.XmlUnusedNamespaceDeclaration,Python.PyDefaultArgument,Python.PyArgumentList,Python.PyFromFutureImport,Python.PyDataclass,Python.PyMissingConstructor,RegExp.RegExpOctalEscape,Python.PyStatementEffect,XML.CheckDtdRefs,null.InconsistentLineSeparators,Python.PyPropertyAccess,Python.PyMethodMayBeStatic,Python.PyDictCreation,Python.PyExceptionInherit,Python.PyNestedDecorators,XML.XmlDefaultAttributeValue,HTML.HtmlExtraClosingTag,RegExp.RegExpEmptyAlternationBranch,Python.PyNamedTuple,yaml.YAMLRecursiveAlias,Python.PySuperArguments,Python.PyUnnecessaryBackslash,Python.PyGlobalUndefined,Python.PyRedeclaration,XML.XmlWrongRootElement,Python.PyDecorator,null.PyPackageRequirements,null.TodoComment,Python.PyByteLiteral,Python.PyCompatibility,Python.PyStringException,Python.PyExceptClausesOrder,Python.PyInterpreter,JSON.JsonSchemaCompliance,null.UnresolvedReference,Python.PyMissingOrEmptyDocstring,HTML.HtmlUnknownAttribute,Python.PySimplifyBooleanCheck,JSON.JsonStandardCompliance,Python.PyRedundantParentheses,XML.CheckTagEmptyBody,Properties.WrongPropertyKeyValueDelimiter,Python.PyInitNewSignature,Python.PyCallByClass,yaml.YAMLDuplicatedKeys,Python.PyUnresolvedReferences,RegExp.RegExpAnonymousGroup,Properties.IncompleteProperty,Python.PyAbstractClass,RegExp.RegExpSingleCharAlternation,Python.PyComparisonWithNone,XML.XmlUnboundNsPrefix,Python.PyMissingTypeHints,Python.PyAttributeOutsideInit,XML.XmlPathReference,null.NonAsciiCharacters,Python.PyMethodOverriding,Python.PyClassHasNoInit,XML.HtmlUnknownAnchorTarget,null.SpellCheckingInspection,Python.PyPropertyDefinition,yaml.YAMLUnusedAnchor,Python.PyTupleItemAssignment,Python.PyMandatoryEncoding,Python.PyTypeHints,null.ProblematicWhitespace,XML.XmlHighlighting,Python.PyAsyncCall,Python.PyDunderSlots,Python.PyStringFormat,Python.PyDictDuplicateKeys,CommandLine.CommandLineInspection,null.UnusedDefine,Python.PySetFunctionToLiteral,Python.PySingleQuotedDocstring,Python.PyTrailingSemicolon,Python.PyArgumentEqualDefault,HTML.HtmlMissingClosingTag,Python.PyIncorrectDocstring,Properties.UnusedProperty,Python.PyNoneFunctionAssignment,Python.PyTupleAssignmentBalance,XML.RequiredAttributes,Python.PyShadowingNames,Python.PyTypeChecker,XML.CheckEmptyScriptTag,Python.PyShadowingBuiltins,HTML.HtmlUnknownBooleanAttribute,Python.PyAssignmentToLoopOrWithParameter,Python.PyDocstringTypes,XML.XmlDuplicatedId,null.SyntaxError,null.InjectedReferences,JSON.JsonDuplicatePropertyKeys,Python.PyUnusedLocal,RegExp.RegExpRepeatedSpace,Python.PyPep8,Python.PyNonAsciiChar,Properties.DuplicatePropertyInspection,RegExp.RegExpEscapedMetaCharacter,Python.PyTestParametrized,yaml.YAMLSchemaValidation,RegExp.RegExpUnexpectedAnchor,Python.PyDeprecation,Python.PyMethodFirstArgAssignment,Python.PyOverloads,RegExp.RegExpRedundantEscape,null.MarkdownUnresolvedFileReference,Python.PyPep8Naming,Properties.TrailingSpacesInProperty,BuildoutCfg.BuildoutUnresolvedPartInspection,Python.PyOldStyleClasses,XML.CheckValidXmlInScriptTagBody,Python.PyUnboundLocalVariable,Python.PyInconsistentIndentation,null.LossyEncoding,Python.PyUnreachableCode,Python.PyChainedComparisons,Python.PyMethodParameters,null.Annotator,JSON5.Json5StandardCompliance,Python.PyCallingNonCallable" collectionTime="1533031898483" />
+      <project id="paysafe-service-metadata" values="Python.PyMissingTypeHints,XML.XmlUnusedNamespaceDeclaration,Python.PyNamedTuple,XML.CheckDtdRefs,Python.PyBroadException,Properties.WrongPropertyKeyValueDelimiter,HTML.HtmlUnknownTag,Python.PyNoneFunctionAssignment,Properties.AlphaUnsortedPropertiesFile,Python.PyMethodOverriding,XML.RequiredAttributes,null.SpellCheckingInspection,Python.PyCallByClass,Python.PySetFunctionToLiteral,Python.PyComparisonWithNone,yaml.YAMLUnresolvedAlias,Properties.TrailingSpacesInProperty,Python.PyTrailingSemicolon,Python.PyRedundantParentheses,JSON5.Json5StandardCompliance,Python.PyAugmentAssignment,XML.XmlPathReference,HTML.HtmlExtraClosingTag,Python.PyInconsistentIndentation,Python.PyMandatoryEncoding,Python.PyExceptClausesOrder,RegExp.RegExpEmptyAlternationBranch,null.NonAsciiCharacters,Python.PyMethodFirstArgAssignment,RegExp.RegExpAnonymousGroup,null.Annotator,RegExp.RegExpEscapedMetaCharacter,Python.PyChainedComparisons,yaml.YAMLSchemaValidation,XML.XmlDuplicatedId,XML.CheckEmptyScriptTag,Python.PyCallingNonCallable,Python.PyByteLiteral,XML.XmlHighlighting,Python.PyRedeclaration,Python.PyUnresolvedReferences,Python.PySimplifyBooleanCheck,Python.PyUnreachableCode,yaml.YAMLRecursiveAlias,JSON.JsonStandardCompliance,Python.PyAttributeOutsideInit,Python.PyArgumentList,Python.PyDocstringTypes,Python.PyClassicStyleClass,Python.PyIncorrectDocstring,Python.PyClassHasNoInit,null.LossyEncoding,RegExp.RegExpDuplicateAlternationBranch,Python.PyUnnecessaryBackslash,RegExp.RegExpRedundantEscape,null.LongLine,Python.PyDeprecation,null.ProblematicWhitespace,Python.PyPep8Naming,yaml.YAMLDuplicatedKeys,Python.PyTestParametrized,null.UnresolvedReference,Python.PyAbstractClass,Python.PyOverloads,Python.PyDictDuplicateKeys,Python.PyFromFutureImport,Python.PyProtocol,XML.XmlWrongRootElement,Properties.UnusedProperty,HTML.HtmlMissingClosingTag,null.InjectedReferences,Python.PyInterpreter,RegExp.RegExpUnexpectedAnchor,null.TodoComment,Python.PyCompatibility,XML.CheckXmlFileWithXercesValidator,Python.PyTupleAssignmentBalance,Python.PySingleQuotedDocstring,Properties.IncompleteProperty,Python.PyReturnFromInit,Python.PyDataclass,XML.XmlUnboundNsPrefix,Python.PyListCreation,XML.HtmlUnknownTarget,Python.PySuperArguments,ReST.RestRoleInspection,Python.PyMissingOrEmptyDocstring,Python.PyNestedDecorators,JSON.JsonDuplicatePropertyKeys,Python.PyStringFormat,Python.PyUnboundLocalVariable,Python.PyOldStyleClasses,JSON.JsonSchemaCompliance,RegExp.RegExpOctalEscape,RegExp.RegExpRepeatedSpace,Python.PyPropertyDefinition,Python.PyProtectedMember,Python.PyDictCreation,Python.PyAsyncCall,BuildoutCfg.BuildoutUnresolvedPartInspection,XML.HtmlUnknownAnchorTarget,Python.PyMethodParameters,yaml.YAMLUnusedAnchor,Python.PyDunderSlots,Python.PyDecorator,HTML.HtmlUnknownBooleanAttribute,Python.PyPropertyAccess,Python.PyStringException,XML.XmlDefaultAttributeValue,CommandLine.CommandLineInspection,XML.CheckValidXmlInScriptTagBody,Python.PyPep8,null.PyPackageRequirements,Python.PyUnusedLocal,Python.PyDefaultArgument,HTML.HtmlUnknownAttribute,Python.PyMethodMayBeStatic,XML.XmlInvalidId,RegExp.RegExpSingleCharAlternation,null.InconsistentLineSeparators,Python.PyTupleItemAssignment,Python.PyMissingConstructor,Python.PyTypeChecker,Python.PyTypeHints,Python.PyInitNewSignature,Python.PyGlobalUndefined,Python.PyArgumentEqualDefault,Python.PyExceptionInherit,Properties.DuplicatePropertyInspection,Python.PyStatementEffect,null.UnusedDefine,Python.PyNonAsciiChar,null.SyntaxError,XML.CheckTagEmptyBody,Python.PyShadowingBuiltins,Python.PyAssignmentToLoopOrWithParameter,Python.PyShadowingNames,null.MarkdownUnresolvedFileReference" collectionTime="1533550314992" />
+    </group>
+    <group name="py-packages">
+      <project id="paysafe-service-metadata" values="lxml,pyppeteer,urllib3,click,websockets,chardet,fake-useragent,cssselect,parse,requests,itsdangerous,Werkzeug,certifi,requests-html,pyquery,idna,bs4,SQLAlchemy,Jinja2,w3lib,beautifulsoup4,MarkupSafe,pyee,gunicorn,six,Flask" collectionTime="1533550315057" />
+      <project id="exchange-bot-admin" values="Jinja2,mongoengine,Flask" collectionTime="1533550317074" />
+      <project id="paysafe-service-dashboard-bff" values="requests,asyncio" collectionTime="1533190814031" />
+      <project id="python-bitshares" values="graphenelib,scrypt,appdirs,pytest,pytest-runner,Events,websockets,pycryptodome" collectionTime="1532754428102" />
+      <project id="bitshares-rpc-client" values="bitshares,pymongo" collectionTime="1533550295955" />
+    </group>
+    <group name="py-interpreter">
+      <project id="python-bitshares" values="Python 3.6.5" collectionTime="1532754428077" />
+      <project id="exchange-bot-market-maker" values="Python 3.6.5" collectionTime="1533550312449" />
+      <project id="paysafe-service-dashboard-fe" values="Python 3.6.5" collectionTime="1533031139113" />
+      <project id="exchange-bot-admin" values="Python 3.6.5" collectionTime="1533550317053" />
+      <project id="paysafe-service-dashboard-bff" values="Python 3.6.5" collectionTime="1533190814006" />
+      <project id="bitshares-rpc-client" values="Python 3.6.5" collectionTime="1533550295905" />
+      <project id="paysafe-service-dashboard-deploy" values="Python 3.6.5" collectionTime="1533031898515" />
+      <project id="paysafe-service-metadata" values="Python 3.6.5 [virtualenv]" collectionTime="1533550315001" />
+    </group>
+    <group name="module type">
+      <project id="python-bitshares" values="PYTHON_MODULE" collectionTime="1532754428073" />
+      <project id="exchange-bot-market-maker" values="PYTHON_MODULE" collectionTime="1533550312442" />
+      <project id="paysafe-service-dashboard-fe" values="PYTHON_MODULE" collectionTime="1533031139067" />
+      <project id="exchange-bot-admin" values="PYTHON_MODULE" collectionTime="1533550317049" />
+      <project id="paysafe-service-dashboard-bff" values="PYTHON_MODULE" collectionTime="1533190813973" />
+      <project id="bitshares-rpc-client" values="PYTHON_MODULE" collectionTime="1533550295865" />
+      <project id="paysafe-service-dashboard-deploy" values="PYTHON_MODULE" collectionTime="1533031898482" />
+      <project id="paysafe-service-metadata" values="PYTHON_MODULE" collectionTime="1533550314991" />
+    </group>
+    <group name="vcs-stats">
+      <project id="python-bitshares" values="has.default.vcs.root.mapping.disabled,active.changelists.count.1,vcs.roots.count.1,unversioned.files.count.0,ignored.files.count.0" collectionTime="1532754428058" />
+      <project id="exchange-bot-market-maker" values="active.changelists.count.1,has.default.vcs.root.mapping.disabled,unversioned.files.count.0,vcs.roots.count.1,ignored.files.count.0" collectionTime="1533550312415" />
+      <project id="paysafe-service-dashboard-fe" values="vcs.roots.count.1,ignored.files.count.0,unversioned.files.count.0,active.changelists.count.1,has.default.vcs.root.mapping.disabled" collectionTime="1533031139011" />
+      <project id="exchange-bot-admin" values="has.default.vcs.root.mapping.disabled,ignored.files.count.0,unversioned.files.count.0,active.changelists.count.1,vcs.roots.count.1" collectionTime="1533550317042" />
+      <project id="paysafe-service-dashboard-bff" values="vcs.roots.count.1,active.changelists.count.1,unversioned.files.count.0,ignored.files.count.0,has.default.vcs.root.mapping.disabled" collectionTime="1533190813955" />
+      <project id="bitshares-rpc-client" values="unversioned.files.count.0,vcs.roots.count.1,has.default.vcs.root.mapping.disabled,active.changelists.count.1,ignored.files.count.0" collectionTime="1533550295846" />
+      <project id="paysafe-service-dashboard-deploy" values="has.default.vcs.root.mapping.disabled,ignored.files.count.1,unversioned.files.count.0,active.changelists.count.1,vcs.roots.count.1" collectionTime="1533031898473" />
+      <project id="paysafe-service-metadata" values="vcs.roots.count.1,unversioned.files.count.0,has.default.vcs.root.mapping.disabled,active.changelists.count.1,ignored.files.count.0" collectionTime="1533550314989" />
+    </group>
+    <group name="Git">
+      <project id="exchange-bot-market-maker" values="version.2.17.1-UNIX,config.save.policy.STASH,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled" collectionTime="1532505381435" />
+      <project id="paysafe-service-dashboard-bff" values="data.remote.servers.bitbucket.custom.1,data.local.branches.count.1,config.ssh.enabled,data.remote.branches.count.1,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.save.policy.STASH,data.remotes.in.project.1,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,version.2.17.1-UNIX" collectionTime="1531907377802" />
+      <project id="bitshares-rpc-client" values="config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,data.local.branches.count.1,config.save.policy.STASH,config.ssh.enabled,config.warn.about.crlf.enabled,data.remotes.in.project.1,config.warn.about.detached.enabled,data.remote.servers.bitbucket.org.1,data.remote.branches.count.1,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,version.2.17.1-UNIX" collectionTime="1532505399883" />
+      <project id="python-bitshares" values="config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.push.autoupdate.disabled,config.save.policy.STASH,data.remotes.in.project.1,data.remote.branches.count.5+,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,version.2.17.1-UNIX,config.push.update.all.roots.enabled,data.local.branches.count.1,config.warn.about.crlf.enabled,data.remote.servers.github.com.1" collectionTime="1532452160911" />
+    </group>
+    <group name="Docker View">
+      <project id="python-bitshares" values="docker.view.total,docker.view.available" collectionTime="1532452160915" />
+      <project id="exchange-bot-market-maker" values="docker.view.total,docker.view.available" collectionTime="1533550312484" />
+      <project id="bitshares-rpc-client" values="docker.view.total,docker.view.available" collectionTime="1533550296040" />
+      <project id="paysafe-service-dashboard-bff" values="docker.view.available,docker.view.total" collectionTime="1531907377806" />
+      <project id="paysafe-service-metadata" values="docker.view.available,docker.view.total" collectionTime="1533550315058" />
+      <project id="exchange-bot-admin" values="docker.view.total,docker.view.available" collectionTime="1533550317075" />
+    </group>
+    <group name="vcs-options">
+      <project id="python-bitshares" values="commit.before.check.code.smell.disabled,perform.edit.in.background.enabled,commit.use.right.margin.enabled,perform.checkout.in.background.enabled,commit.before.check.todo.enabled,offer.move.partially.committed.disabled,offer.move.failed.committed.do_nothing_silently,commit.before.check.code.cleanup.disabled,include.text.into.shelf.enabled,perform.update.in.background.enabled,changelist.preselect.existing.disabled,check.conflicts.in.background.disabled,commit.before.optimize.imports.disabled,perform.add_remove.in.background.enabled,perform.commit.in.background.enabled,show.changes.preview.disabled,offer.remove.empty.changelist.show_confirmation,commit.before.check.non.empty.comment.disabled,commit.show.unversioned.enabled,commit.before.reformat.project.disabled,perform.rollback.in.background.disabled,commit.before.rearrange.disabled,commit.clear.initial.comment.disabled,changelist.make.new.active.disabled" collectionTime="1532754428050" />
+      <project id="exchange-bot-market-maker" values="include.text.into.shelf.enabled,offer.move.failed.committed.do_nothing_silently,check.conflicts.in.background.disabled,commit.clear.initial.comment.disabled,commit.before.check.code.cleanup.disabled,perform.checkout.in.background.enabled,commit.before.check.todo.enabled,commit.before.check.code.smell.disabled,changelist.make.new.active.disabled,perform.update.in.background.enabled,commit.before.check.non.empty.comment.disabled,commit.show.unversioned.enabled,changelist.preselect.existing.disabled,perform.rollback.in.background.disabled,offer.move.partially.committed.disabled,perform.add_remove.in.background.enabled,perform.commit.in.background.enabled,show.changes.preview.disabled,commit.before.rearrange.disabled,offer.remove.empty.changelist.show_confirmation,commit.use.right.margin.enabled,commit.before.optimize.imports.disabled,perform.edit.in.background.enabled,commit.before.reformat.project.disabled" collectionTime="1533550312415" />
+      <project id="paysafe-service-dashboard-fe" values="commit.before.check.code.cleanup.disabled,changelist.preselect.existing.disabled,check.conflicts.in.background.disabled,commit.before.rearrange.disabled,commit.before.optimize.imports.disabled,offer.remove.empty.changelist.show_confirmation,commit.before.reformat.project.disabled,offer.move.failed.committed.do_nothing_silently,offer.move.partially.committed.disabled,commit.use.right.margin.enabled,perform.rollback.in.background.disabled,perform.update.in.background.enabled,commit.show.unversioned.enabled,perform.checkout.in.background.enabled,perform.edit.in.background.enabled,commit.before.check.todo.enabled,show.changes.preview.disabled,perform.add_remove.in.background.enabled,changelist.make.new.active.disabled,commit.before.check.non.empty.comment.disabled,commit.before.check.code.smell.disabled,commit.clear.initial.comment.disabled,include.text.into.shelf.enabled,perform.commit.in.background.enabled" collectionTime="1533031139011" />
+      <project id="exchange-bot-admin" values="check.conflicts.in.background.disabled,perform.rollback.in.background.disabled,offer.move.failed.committed.do_nothing_silently,perform.edit.in.background.enabled,show.changes.preview.disabled,offer.move.partially.committed.disabled,commit.before.check.code.cleanup.disabled,perform.checkout.in.background.enabled,commit.use.right.margin.enabled,changelist.preselect.existing.disabled,changelist.make.new.active.disabled,perform.update.in.background.enabled,perform.commit.in.background.enabled,commit.before.reformat.project.disabled,include.text.into.shelf.enabled,commit.clear.initial.comment.disabled,commit.before.rearrange.disabled,offer.remove.empty.changelist.show_confirmation,commit.show.unversioned.enabled,commit.before.check.non.empty.comment.disabled,commit.before.check.todo.enabled,perform.add_remove.in.background.enabled,commit.before.optimize.imports.disabled,commit.before.check.code.smell.disabled" collectionTime="1533550317042" />
+      <project id="paysafe-service-dashboard-bff" values="perform.commit.in.background.enabled,show.changes.preview.disabled,commit.before.check.non.empty.comment.disabled,offer.remove.empty.changelist.show_confirmation,commit.clear.initial.comment.disabled,commit.show.unversioned.enabled,commit.before.reformat.project.disabled,offer.move.partially.committed.disabled,commit.before.rearrange.disabled,perform.edit.in.background.enabled,commit.before.check.code.smell.disabled,changelist.make.new.active.disabled,check.conflicts.in.background.disabled,commit.before.check.todo.enabled,commit.before.optimize.imports.disabled,offer.move.failed.committed.do_nothing_silently,commit.before.check.code.cleanup.disabled,commit.use.right.margin.enabled,perform.add_remove.in.background.enabled,perform.rollback.in.background.disabled,changelist.preselect.existing.disabled,include.text.into.shelf.enabled,perform.checkout.in.background.enabled,perform.update.in.background.enabled" collectionTime="1533190813955" />
+      <project id="bitshares-rpc-client" values="offer.move.partially.committed.disabled,commit.before.reformat.project.disabled,changelist.make.new.active.disabled,commit.use.right.margin.enabled,offer.move.failed.committed.do_nothing_silently,commit.before.check.code.cleanup.disabled,perform.rollback.in.background.disabled,perform.checkout.in.background.enabled,commit.before.rearrange.disabled,commit.before.check.todo.enabled,offer.remove.empty.changelist.show_confirmation,show.changes.preview.disabled,include.text.into.shelf.enabled,commit.before.check.non.empty.comment.disabled,commit.clear.initial.comment.disabled,changelist.preselect.existing.disabled,perform.update.in.background.enabled,commit.before.check.code.smell.disabled,perform.commit.in.background.enabled,check.conflicts.in.background.disabled,perform.edit.in.background.enabled,perform.add_remove.in.background.enabled,commit.show.unversioned.enabled,commit.before.optimize.imports.disabled" collectionTime="1533550295845" />
+      <project id="paysafe-service-dashboard-deploy" values="commit.before.reformat.project.disabled,changelist.make.new.active.disabled,check.conflicts.in.background.disabled,include.text.into.shelf.enabled,perform.commit.in.background.enabled,commit.use.right.margin.enabled,offer.move.failed.committed.do_nothing_silently,commit.before.check.non.empty.comment.disabled,commit.before.rearrange.disabled,perform.add_remove.in.background.enabled,commit.show.unversioned.enabled,changelist.preselect.existing.disabled,perform.edit.in.background.enabled,perform.checkout.in.background.enabled,commit.before.check.code.cleanup.disabled,commit.before.check.todo.enabled,commit.clear.initial.comment.disabled,offer.move.partially.committed.disabled,show.changes.preview.disabled,commit.before.check.code.smell.disabled,perform.rollback.in.background.disabled,offer.remove.empty.changelist.show_confirmation,perform.update.in.background.enabled,commit.before.optimize.imports.disabled" collectionTime="1533031898467" />
+      <project id="paysafe-service-metadata" values="changelist.make.new.active.disabled,commit.before.check.code.smell.disabled,perform.edit.in.background.enabled,include.text.into.shelf.enabled,commit.use.right.margin.enabled,changelist.preselect.existing.disabled,commit.before.reformat.project.disabled,offer.remove.empty.changelist.show_confirmation,perform.commit.in.background.enabled,perform.checkout.in.background.enabled,commit.before.check.todo.enabled,perform.update.in.background.enabled,commit.before.check.non.empty.comment.disabled,commit.before.rearrange.disabled,perform.rollback.in.background.disabled,show.changes.preview.disabled,offer.move.failed.committed.do_nothing_silently,check.conflicts.in.background.disabled,commit.before.optimize.imports.disabled,commit.show.unversioned.enabled,commit.clear.initial.comment.disabled,perform.add_remove.in.background.enabled,offer.move.partially.committed.disabled,commit.before.check.code.cleanup.disabled" collectionTime="1533550314989" />
+    </group>
+  </component>
+  <component name="ToolWindowCollector">
+    <counts>
+      <entry toolWindow="Debug by Activation" count="83" />
+      <entry toolWindow="Event Log by Activation" count="1" />
+      <entry toolWindow="Favorites by Activation" count="7" />
+      <entry toolWindow="Find by Activation" count="29" />
+      <entry toolWindow="Hierarchy by Activation" count="1" />
+      <entry toolWindow="Key Promoter X by Activation" count="8" />
+      <entry toolWindow="Project by Activation" count="244" />
+      <entry toolWindow="Python Console by Activation" count="5" />
+      <entry toolWindow="Run by Activation" count="1091" />
+      <entry toolWindow="Structure by Activation" count="1" />
+      <entry toolWindow="TODO by Activation" count="2" />
+      <entry toolWindow="Terminal by Activation" count="67" />
+      <entry toolWindow="Version Control by Activation" count="2" />
+    </counts>
+  </component>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="Debug@NavBarToolbar" count="27" />
+      <entry action="Rerun@DebuggerToolbar" count="31" />
+      <entry action="Rerun@RunnerToolbar" count="1243" />
+      <entry action="Resume@DebuggerToolbar" count="1" />
+      <entry action="Run@NavBarToolbar" count="107" />
+      <entry action="RunConfiguration@NavBarToolbar" count="35" />
+      <entry action="RunToCursor@DebuggerToolbar" count="2" />
+      <entry action="Show Options@ToolWindowHeader" count="7" />
+      <entry action="StepInto@DebuggerToolbar" count="13" />
+      <entry action="StepIntoMyCode@DebuggerToolbar" count="11" />
+      <entry action="StepOut@DebuggerToolbar" count="7" />
+      <entry action="StepOver@DebuggerToolbar" count="74" />
+      <entry action="Stop@DebuggerToolbar" count="31" />
+      <entry action="Stop@NavBarToolbar" count="5" />
+      <entry action="Stop@RunnerToolbar" count="211" />
+      <entry action="ViewBreakpoints@DebuggerToolbar" count="4" />
+      <entry action="XDebugger.MuteBreakpoints@DebuggerToolbar" count="2" />
+      <entry action="com.intellij.application.options.schemes.AbstractSchemesPanel$ShowSchemesActionsListAction@NavBarToolbar" count="1" />
+      <entry action="com.intellij.codeInsight.documentation.DocumentationComponent$MyGearActionGroup@unknown" count="1" />
+      <entry action="com.intellij.codeInsight.navigation.ShowQuickDocAtPinnedWindowFromTooltipAction@IdeTooltip" count="1" />
+      <entry action="com.intellij.execution.configurations.CommandLineState$PauseOutputAction@RunnerToolbar" count="13" />
+      <entry action="com.intellij.execution.console.ConsoleExecuteAction@PydevConsoleRunner" count="1" />
+      <entry action="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction@PydevConsoleRunner" count="1" />
+      <entry action="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction@RunnerToolbar" count="1" />
+      <entry action="com.intellij.execution.console.DuplexConsoleView$MergedAction@RunnerToolbar" count="2" />
+      <entry action="com.intellij.execution.impl.ConsoleViewImpl$ClearAllAction@RunnerToolbar" count="2" />
+      <entry action="com.intellij.execution.ui.actions.CloseAction@DebuggerToolbar" count="1" />
+      <entry action="com.intellij.execution.ui.actions.CloseAction@RunnerToolbar" count="2" />
+      <entry action="com.intellij.find.EditorSearchSession$ReplaceAllAction@EditorToolbar" count="5" />
+      <entry action="com.intellij.find.SearchTextArea$ClearAction@unknown" count="13" />
+      <entry action="com.intellij.find.editorHeaderActions.NextOccurrenceAction@EditorToolbar" count="63" />
+      <entry action="com.intellij.find.editorHeaderActions.PrevOccurrenceAction@EditorToolbar" count="67" />
+      <entry action="com.intellij.find.impl.FindPopupPanel$6@unknown" count="1" />
+      <entry action="com.intellij.find.impl.FindPopupPanel$MyShowFilterPopupAction@unknown" count="1" />
+      <entry action="com.intellij.ide.actions.CollapseAllToolbarAction@ToolwindowTitle" count="5" />
+      <entry action="com.intellij.ide.plugins.InstalledPluginsManagerMain$MyFilterEnabledAction@PluginManager" count="1" />
+      <entry action="com.intellij.ide.projectView.impl.ProjectViewImpl$ScrollFromSourceAction@ToolwindowTitle" count="1" />
+      <entry action="com.intellij.notification.EventLogToolWindowFactory$ToggleSoftWraps@EventLog" count="1" />
+      <entry action="com.intellij.openapi.actionSystem.DefaultActionGroup@PydevConsoleRunner" count="6" />
+      <entry action="com.intellij.openapi.keymap.impl.ui.KeymapPanel$6@KeymapEdit" count="1" />
+      <entry action="com.intellij.openapi.roots.ui.configuration.CommonContentEntriesEditor$AddContentEntryAction@unknown" count="2" />
+      <entry action="com.intellij.openapi.roots.ui.configuration.actions.ToggleSourcesStateAction@ProjectStructureContentEntries" count="2" />
+      <entry action="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction@ToolwindowTitle" count="3" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="48" />
+      <entry action="com.intellij.usages.impl.UsageViewImpl$CloseAction@UsageViewToolbar" count="1" />
+      <entry action="com.intellij.util.config.DumbAwareToggleInvertedBooleanProperty@TestTreeViewToolbar" count="1" />
+      <entry action="com.intellij.webcore.packaging.InstalledPackagesPanel$4@ToolbarDecorator" count="3" />
+      <entry action="com.jetbrains.python.configuration.PythonSdkDetailsDialog$ShowPathButton@ToolbarDecorator" count="8" />
+      <entry action="com.jetbrains.python.console.PydevConsoleRunnerImpl$7@PydevConsoleRunner" count="5" />
+      <entry action="com.jetbrains.python.console.PydevConsoleRunnerImpl$ConnectDebuggerAction@PydevConsoleRunner" count="1" />
+      <entry action="com.jetbrains.python.console.PydevConsoleRunnerImpl$NewConsoleAction@PydevConsoleRunner" count="1" />
+      <entry action="com.jetbrains.python.console.PydevConsoleRunnerImpl$RestartAction@PydevConsoleRunner" count="16" />
+      <entry action="com.jetbrains.python.testing.PyRerunFailedTestsAction@RunnerToolbar" count="1" />
+      <entry action="org.intellij.plugins.markdown.ui.actions.styling.ToggleBoldAction@EditorToolbar" count="1" />
+      <entry action="org.intellij.plugins.markdown.ui.actions.styling.ToggleCodeSpanAction@EditorToolbar" count="4" />
+      <entry action="org.jetbrains.plugins.terminal.TerminalView$NewSession@Terminal" count="1" />
+    </counts>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="AbstractNewProjectStep.Pure Python" count="2" />
+      <entry feature="CreateFile.CreateFileAction" count="16" />
+      <entry feature="StripeButton[Docker].hidden" count="6" />
+      <entry feature="StripeButton[Python Console].hidden" count="1" />
+      <entry feature="StripeButton[Version Control].shown" count="6" />
+      <entry feature="configure.code.style.on.selected.fragment" count="1" />
+      <entry feature="execute.PythonConfigurationType.Debug" count="75" />
+      <entry feature="execute.PythonConfigurationType.Run" count="1208" />
+      <entry feature="execute.tests.Debug" count="6" />
+      <entry feature="execute.tests.Run" count="783" />
+      <entry feature="ide.help.Cython_Speedups" count="1" />
+      <entry feature="ide.help.top" count="2" />
+      <entry feature="ide.help.viewingStructure.projectViews" count="1" />
+      <entry feature="ide.settings.General" count="1" />
+      <entry feature="ide.settings.Keymap" count="3" />
+      <entry feature="ide.settings.Live Templates" count="7" />
+      <entry feature="ide.settings.Plugins" count="5" />
+      <entry feature="ide.settings.Project Interpreter" count="11" />
+      <entry feature="ide.settings.Project Structure" count="3" />
+      <entry feature="ide.settings.Python Console" count="5" />
+      <entry feature="ide.settings.Smart Keys" count="1" />
+      <entry feature="ideaapp.started" count="58" />
+      <entry feature="project.view.pane.ProjectPane" count="2" />
+      <entry feature="project.view.pane.Scope.Scope  Changed Files   set Changed Files  ALL  class com.intellij.packageDependencies.ChangeListScope" count="1" />
+      <entry feature="project.view.pane.Scope.Scope  Default   set Default  class com.intellij.packageDependencies.ChangeListScope" count="2" />
+      <entry feature="project.view.pane.Scope.Scope  Problems   set Problems  class com.intellij.psi.search.scope.ProblemsScope" count="1" />
+      <entry feature="project.view.pane.Scope.Scope  Project Files   set Project Files  class com.intellij.psi.search.scope.ProjectFilesScope" count="1" />
+      <entry feature="python.console.local" count="35" />
+      <entry feature="terminal.linux" count="66" />
+      <entry feature="welcome.screen.HelpTopics" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Documentation" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="1" />
+    </counts>
+  </component>
+  <component name="UsagesStatistic" time="1533545969106" event-log-time="1533546567198" />
+</application>
