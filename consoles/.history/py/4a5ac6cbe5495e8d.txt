@@ -1,0 +1,9 @@
+exit()
+-. . -..- - / . -. - .-. -.--
+from app.database.oracle_service import OracleService
+-. . -..- - / . -. - .-. -.--
+asd = OracleService()
+-. . -..- - / . -. - .-. -.--
+from app.database.oracle_service import OracleServices
+-. . -..- - / . -. - .-. -.--
+asd = OracleServices()

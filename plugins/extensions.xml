@@ -1924,6 +1924,19 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.http">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.restClient" />
+              <option name="myPluginName" value="HTTP Client" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.hx">
       <plugins>
         <option name="myPlugins">
@@ -3898,6 +3911,19 @@
           <set>
             <plugin>
               <option name="myPluginId" value="com.intellij.plugin.applescript" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.screen">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="com.hand.hec.aurora.ide.plugin.idea" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
             </plugin>

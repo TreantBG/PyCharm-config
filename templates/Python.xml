@@ -5,4 +5,20 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="unittest" value="import unittest&#10;&#10;&#10;class $CLASS$(unittest.TestCase):&#10;    &#10;    def setUp(self):&#10;        $SETUP$&#10;        &#10;    def $TEST_NAME$(self):&#10;        $TEST$&#10;    &#10;    $END$&#10;    &#10;&#10;if __name__ == '__main__':&#10;    unittest.main()&#10;" description="Define base unittest class" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS" expression="" defaultValue="&quot;TestClass&quot;" alwaysStopAt="true" />
+    <variable name="SETUP" expression="" defaultValue="&quot;pass&quot;" alwaysStopAt="true" />
+    <variable name="TEST_NAME" expression="" defaultValue="&quot;test_method&quot;" alwaysStopAt="true" />
+    <variable name="TEST" expression="" defaultValue="&quot;pass&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="baseTestSetUp" value="import unittest&#10;&#10;&#10;class $CLASS$(unittest.TestCase):&#10;    &#10;    @classmethod&#10;    def setUpClass(cls):&#10;        &quot;&quot;&quot;On inherited classes, run our `setUp` method&quot;&quot;&quot;&#10;        if cls is not $CLASS$ and cls.setUp is not $CLASS$.setUp:&#10;            orig_setUp = cls.setUp&#10;    &#10;            def setUpOverride(self, *args, **kwargs):&#10;                $CLASS$.setUp(self)&#10;                return orig_setUp(self, *args, **kwargs)&#10;    &#10;            cls.setUp = setUpOverride   &#10;                &#10;    def setUp(self):&#10;        $SETUP$&#10;    $END$&#10;    &#10;if __name__ == '__main__':&#10;    unittest.main()&#10;" description="add base test setup method" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS" expression="" defaultValue="&quot;BaseTestClass&quot;" alwaysStopAt="true" />
+    <variable name="SETUP" expression="" defaultValue="&quot;pass&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>

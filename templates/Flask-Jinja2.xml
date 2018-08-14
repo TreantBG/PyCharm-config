@@ -1,5 +1,6 @@
 <templateSet group="Flask-Jinja2">
-  <template name="fexp" value="{{ foo.bar }}&#10;" description="Add Flask template expression" toReformat="false" toShortenFQNames="true">
+  <template name="fexp" value="{{ $EXP$ }} $END$" description="Add Flask template expression" toReformat="false" toShortenFQNames="true">
+    <variable name="EXP" expression="" defaultValue="&quot;foo.bar&quot;" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />
     </context>
@@ -14,12 +15,14 @@
       <option name="HTML" value="true" />
     </context>
   </template>
-  <template name="fblock" value="{% block foo %}{% endblock %}&#10;" description="Add Flask template block" toReformat="false" toShortenFQNames="true">
+  <template name="fblock" value="{% block $NAME$ %}$END${% endblock %}" description="Add Flask template block" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="&quot;container&quot;" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />
     </context>
   </template>
-  <template name="fextends" value="{% extends layout_template %}&#10;" description="Add Flask extends tag" toReformat="false" toShortenFQNames="true">
+  <template name="fextends" value="{% extends $FILE$ %}&#10;" description="Add Flask extends tag" toReformat="false" toShortenFQNames="true">
+    <variable name="FILE" expression="" defaultValue="&quot;'base.html'&quot;" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />
     </context>
