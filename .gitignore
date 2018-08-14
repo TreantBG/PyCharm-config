@@ -1,6 +1,8 @@
 port
 port.lock
+disabled_plugins.txt
 tasks/
 options/
 plugins/
 consoles/
+inspection/
