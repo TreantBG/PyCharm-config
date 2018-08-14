@@ -2,3 +2,5 @@ port
 port.lock
 tasks/
 options/
+plugins/
+consoles/
