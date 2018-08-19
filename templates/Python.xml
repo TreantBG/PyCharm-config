@@ -21,4 +21,24 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="main" value="if __name__ == '__main__':&#10;    $END$" description="create main if" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="logg" value="self.logger = logging$END$.getLogger(__name__)" description="add base logger varriable" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="debug" value="self.logger.debug('$message$')$END$" description="add debug log message" toReformat="false" toShortenFQNames="true">
+    <variable name="message" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="info" value="self.logger.info('$message$')$END$" description="add infolog message" toReformat="false" toShortenFQNames="true">
+    <variable name="message" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>
