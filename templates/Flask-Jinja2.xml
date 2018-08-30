@@ -21,8 +21,8 @@
       <option name="HTML" value="true" />
     </context>
   </template>
-  <template name="fextends" value="{% extends $FILE$ %}&#10;" description="Add Flask extends tag" toReformat="false" toShortenFQNames="true">
-    <variable name="FILE" expression="" defaultValue="&quot;'base.html'&quot;" alwaysStopAt="true" />
+  <template name="fextends" value="{% extends '$FILE$' %}&#10;" description="Add Flask extends tag" toReformat="false" toShortenFQNames="true">
+    <variable name="FILE" expression="" defaultValue="&quot;base.html&quot;" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />
     </context>
@@ -63,6 +63,18 @@
     </context>
   </template>
   <template name="fflashfilter" value="{% with errors = get_flashed_messages(category_filter=[&quot;error&quot;]) %}&#10;{% if errors %}&#10;&lt;div class=&quot;alert-message block-message error&quot;&gt;&#10;  &lt;a class=&quot;close&quot; href=&quot;#&quot;&gt;×&lt;/a&gt;&#10;  &lt;ul&gt;&#10;    {%- for msg in errors %}&#10;    &lt;li&gt;{{ msg }}&lt;/li&gt;&#10;    {% endfor -%}&#10;  &lt;/ul&gt;&#10;&lt;/div&gt;&#10;{% endif %}&#10;{% endwith %}" description="Add flash message with category" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="finclude" value="{% include '$FILE$' %}&#10;" description="Add Flask include tag" toReformat="false" toShortenFQNames="true">
+    <variable name="FILE" expression="" defaultValue="&quot;base.html&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="furlstatic" value="{{ url_for('static', filename='$NAME$') }}" description="Add Flask url_for template tag for static files" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />
     </context>
