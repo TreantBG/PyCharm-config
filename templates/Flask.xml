@@ -1,5 +1,5 @@
 <templateSet group="Flask">
-  <template name="fapp" value="from flask import Flask, render_template&#10;app = Flask(__name__)&#10;&#10;&#10;@app.route('/')&#10;def index():&#10;    return render_template('index.html')&#10;&#10;if __name__ == '__main__':&#10;  app.run(host:'127.0.0.1', port=8000, debug=True)&#10;&#10; " description="Add basic Flask app code" toReformat="false" toShortenFQNames="true">
+  <template name="fapp" value="from flask import Flask, render_template&#10;app = Flask(__name__)&#10;&#10;&#10;@app.route('/')&#10;def index():&#10;    return render_template('index.html')&#10;&#10;if __name__ == '__main__':&#10;  app.run(host='127.0.0.1', port=8000, debug=True)&#10;&#10; " description="Add basic Flask app code" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="Python" value="true" />
     </context>
